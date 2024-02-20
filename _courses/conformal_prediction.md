@@ -2,7 +2,7 @@
 title: "Conformal Prediction and Learning"
 collection: courses
 type: "Graduate Course"
-permalink: /courses/2024-conformal_prediction
+permalink: /_courses/conformal_prediction.md
 venue: "-"
 date: 2024-02-19
 location: "Bengaluru, India"

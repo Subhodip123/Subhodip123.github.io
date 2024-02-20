@@ -2,7 +2,7 @@
 title: "Information Theoretic Learning"
 collection: courses
 type: "Graduate Course"
-permalink: /courses/2024-info_theo_learning
+permalink: /_courses/info_theo_learning.md
 venue: "-"
 date: 2024-02-20
 location: "Bengaluru, India"
