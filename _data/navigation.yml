@@ -6,8 +6,8 @@ main:
   # - title: "Projects"
   #   url: /projects/
 
-  - title: "Courses"
-    url: /courses/
+  # - title: "Courses"
+  #   url: /courses/
 
   - title: "Academic Services"
     url: /teaching/    
