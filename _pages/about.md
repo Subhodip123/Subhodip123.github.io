@@ -15,4 +15,4 @@ Hi! I am Subhodip, a second year Ph.D student at Representation Learning Lab of 
 - **Privacy:** Machine Unlearning, Differential Privacy, Privacy Attacks.
 I am creating a community on Machine Unleanrning as this is a fairly new area. Please join the group: [Machine-Unleanrning](https://discord.gg/YU9T5pvF) if interested.
 - **Uncertainty:** Conformal Prediction and Calibration.
-- **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2)
+<!-- - **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2) -->
