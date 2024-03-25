@@ -14,4 +14,4 @@ Currently I am learning and teaching this course to myself. The course notes wil
 
 - [Lec-2](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Entropy and Its Properties
 
-- [Lec-3](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Entropy Properties: Submodularity and Han's Inequality
+- [Lec-3](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Entropy Properties: Submodularity and Han's Inequality.
