@@ -15,3 +15,7 @@ Currently I am learning and teaching this course to myself. The course notes wil
 - [Lec-2](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Entropy and Its Properties
 
 - [Lec-3](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Entropy Properties: Submodularity and Han's Inequality.
+
+- [Lec-4](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Divergence
+
+- [Lec-5](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Topics in Divergence
