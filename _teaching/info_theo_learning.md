@@ -12,6 +12,6 @@ Currently I am learning and teaching this course to myself. The course notes wil
 
 - [Lec-1](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Introduction to Information and Review of Probability.
 - [Lec-2](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Modeling Uncertainty and Motivating Examples
-- [Lec-3](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Information Measures: Entropy and its properties, Submodularity and Han's Inequality.
+- [Lec-3](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Information Measures: Entropy, Submodularity and Han's Inequality.
 - [Lec-4](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Divergence
 - [Lec-5](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Topics in Divergence
