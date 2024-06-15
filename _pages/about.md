@@ -12,7 +12,7 @@ Hi! I am Subhodip, a second year Ph.D student at Representation Learning Lab of 
 
 **Research Interests:** My broader research interest lies in the domain of Privacy and Uncertainty aware learning algorithms. I am curious to know what each data point contributes in the learning process and I beleive that privacy ([Diffential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) can help understand what these deep networks learn from each datapoint and if needed how we can unlearn ([Machine Unlearning](https://arxiv.org/abs/2209.02299)). Also, I am pretty fascinated by distribution free uncertainty estimations for deep neural networks. Below are some of the topics that I am interested in:
 
-- **Privacy:** Machine Unlearning, Differential Privacy, Privacy Attacks.
+- **Privacy:** Machine Unlearning and Differential Privacy.
 <!-- I am creating a community on Machine Unleanrning as this is a fairly new area. Please join the group: [Machine-Unleanrning](https://discord.gg/YU9T5pvF) if interested. -->
 - **Uncertainty:** Conformal Prediction and Calibration.
 <!-- - **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2) -->
