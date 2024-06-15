@@ -21,7 +21,7 @@ Currently I am learning and teaching this course to myself. I will be mostly fol
 - [Lec-8](): Non-conformity scores - coming soon
 - [Lec-9](): Weak Teachers - coming soon
 - [Lec-10](): Inductive Conformal Predictors - coming soon
-- [Lec-11](): Non-concformity scores: Further ways - coming soon
+- [Lec-11](): Non-concformity scores: further ways - coming soon
 - [Lec-12](): Cross-Conformal and Transductive-Conformal Predictors - coming soon
 - [Lec-13](): Conditional Conformal Predictors - coming soon
 - [Lec-14](): Training Conditional Validity - coming soon

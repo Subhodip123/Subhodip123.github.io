@@ -33,7 +33,7 @@ Currently I am learning and teaching this course to myself. I will be mostly fol
 - [Lec-20](): Total Variational and Heelinger distances - coming soon
 - [Lec-21](): Inequalities between f-divergences - coming soon
 - [Lec-22](): Comparisions with Total Variational distance - coming soon
-- [Lec-23](): f-divergence: examples and further topics - coming soon
+- [Lec-23](): f-divergence: examples and topics - coming soon
 - [Lec-24](): f-divergence: local analysis - coming soon
 - [Lec-25](): Fisher information and Renyi Divergence - coming soon
 - [Lec-26](): f-divergence: Variational representation - coming soon
@@ -47,7 +47,7 @@ Currently I am learning and teaching this course to myself. I will be mostly fol
 - [Lec-34](): Sequential Hypothesis testing - coming soon
 - [Lec-35](): Decision Thoery and Gaussian Location Model - coming soon
 - [Lec-36](): Bayes risk and Mini-max risk - coming soon
-- [Lec-37](): Further topics on sample complexity and tensor products - coming soon
+- [Lec-37](): Topics on sample complexity and tensor products - coming soon
 - [Lec-38](): Log-concavity and Anderson's lemma - coming soon
 - [Lec-39](): Lower bounds from data processing - coming soon
 - [Lec-40](): ML estimator: efficiency and applications - coming soon
