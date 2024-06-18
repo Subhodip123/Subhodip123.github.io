@@ -26,8 +26,8 @@ Currently I am learning and teaching this course to myself. I will be mostly fol
 - [Lec-13](): Conditional Conformal Predictors - coming soon
 - [Lec-14](): Training Conditional Validity - coming soon
 - [Lec-15](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Conformal Test Martingles
-- [Lec-16](): Multi-stage Randomness Detection - coming soon
-- [Lec-17](): Testing in Anti-Causal Classification - coming soon
+- [Lec-16](): Testing in Anti-Causal Classification - coming soon
+- [Lec-17](): Multi-stage Randomness Detection - coming soon
 - [Lec-18](): Efficiency of Conformal Testing - coming soon
 - [Lec-19](): Further Topics in Test Martingles - coming soon
 - [Lec-20](): Impossibility of Estimation: Binary Case & Multiclass Case - coming soon
