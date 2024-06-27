@@ -8,8 +8,7 @@ date: 2024-06-01
 location: "Bengaluru, India"
 ---
 
-Currently I am learning and teaching this course to myself. I will be mostly following the book: [**Algorithmic learning in a random world by V.Vovk, A.Gammerman, and G.Shafer**](https://alrw.net/).
-
+This is a self-taught course. The topics are designed by myself mostly following the book: [**Algorithmic learning in a random world by V.Vovk, A.Gammerman, and G.Shafer**](https://alrw.net/).
 
 - [Lec-1](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Introduction and Probability review.
 - [Lec-2](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Confidence Predictors.

@@ -8,8 +8,7 @@ date: 2024-02-20
 location: "Bengaluru, India"
 ---
 
-Currently I am learning and teaching this course to myself. I will be mostly following the book: [**Information Theory: From Coding to Learning by Y. Polyanskiy and Y. Wu.**](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf).
-
+This is a self-taught course. The topics are designed by myself mostly following the book: [**Information Theory: From Coding to Learning by Y. Polyanskiy and Y. Wu.**](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf).
 
 - [Lec-1](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Introduction and Probability review.
 - [Lec-2](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Uncertainty Modeling and Motivating Examples
