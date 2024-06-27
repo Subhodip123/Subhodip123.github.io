@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assitant for Graduate Courses"
+title: "Teaching Assistant for Graduate Courses"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2023-teaching-1
