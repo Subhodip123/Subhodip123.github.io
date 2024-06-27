@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2023-teaching-1
 venue: "IISc"
-date: 2023-01-01
+date: 2024-06-27
 location: "Bengaluru, India"
 ---
 
