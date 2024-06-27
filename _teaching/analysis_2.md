@@ -37,5 +37,5 @@ Theorem  & Fatou's Lemma
 - [Lec-31](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Signed and Complex Measures
 - [Lec-32 & Lec-33](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Hahn and Jordan Decomposition
 - [Lec-34](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Lebesgue Decomposition
-- [Lec-25 and Lec-36](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Radon-Nikodym Theorem and Applications
+- [Lec-35 and Lec-36](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Radon-Nikodym Theorem and Applications
 - [Lec-37](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Reisz Representation Theorem
