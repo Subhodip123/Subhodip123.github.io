@@ -2,7 +2,7 @@
 title: "Measure Theory"
 collection: courses
 type: "Graduate Course"
-permalink: /teaching/2024-conformal_prediction
+permalink: /teaching/2024-analysis_2
 venue: "-"
 date: 2023-06-01
 location: "Bengaluru, India"
