@@ -3,7 +3,7 @@ title: "Real Analysis"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-analysis_1
-venue: "-"
+venue: "ISI & IISc"
 date: 2022-01-01
 location: "Bengaluru, India"
 ---

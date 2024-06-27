@@ -3,8 +3,8 @@ title: "Teaching Assitant for Graduate Courses"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2023-teaching-1
-venue: "IISc , ECE"
-date: 2023-01-03
+venue: "IISc"
+date: 2023-01-01
 location: "Bengaluru, India"
 ---
 

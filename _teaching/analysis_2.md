@@ -3,7 +3,7 @@ title: "Measure Theory"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-analysis_2
-venue: ""
+venue: "IISc"
 date: 2023-06-01
 location: "Bengaluru, India"
 ---
