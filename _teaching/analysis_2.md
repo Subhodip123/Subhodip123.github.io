@@ -30,7 +30,7 @@ Lecture notes consists of materials from my coursework at IISc.
 - [Lec-23 & Lec-24](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Tonelli and Fubini's Theorem
 - [Lec-25](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Introduction to $L^p$-spaces
 - [Lec-26](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Holder's and Minkowski's Inequalities
-- [Lec-27](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7`): Properties of $\mathds{L}^p(\mu,\mathds{F})$ spaces
+- [Lec-27](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7`): Properties of $\mathbb{L}^p(\mu,\mathbb{F})$ spaces
 - [Lec-28](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Reisz-Fisher Theorem
 - [Lec-29 & Lec-30](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Change of Variables formulae
 - [Lec-31](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Signed and Complex Measures
