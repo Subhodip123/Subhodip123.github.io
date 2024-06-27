@@ -23,7 +23,8 @@ Lecture notes consists of materials from my coursework at IISc.
 - [Lec-11 & Lec-12](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Continuation of Measurable functions
 - [Lec-13](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Intergration
 - [Lec-14](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Continuation of Integration
-- [Lec-15](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Monotone Convergence Theorem (MCT) and Fatou's Lemma
+- [Lec-15](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Monotone Convergence
+Theorem  & Fatou's Lemma
 - [Lec-16 & Lec-17](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Dominated Convergence Theorem (DCT)
 - [Lec-18 & Lec-19](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Monotone Approximation Theorem
 - [Lec-20 & Lec-21 and Lec-22](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Product Measures
