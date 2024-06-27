@@ -1,5 +1,5 @@
 ---
-title: "Conformal Prediction and Learning"
+title: "Online Learning"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-online_learning
