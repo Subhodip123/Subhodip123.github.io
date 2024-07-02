@@ -2,9 +2,9 @@
 title: "Information Theoretic Learning"
 collection: courses
 type: "Graduate Course"
-permalink: /teaching/2024-info_theo_learning
+permalink: /teaching/2023-info_theo_learning
 venue: "IISc"
-date: 2024-02-20
+date: 2023-06-01
 location: "Bengaluru, India"
 ---
 

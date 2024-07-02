@@ -4,7 +4,7 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2024-concentration_ineq
 venue: "IISc"
-date: 2024-06-01
+date: 2024-05-01
 location: "Bengaluru, India"
 ---
 
