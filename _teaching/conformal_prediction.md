@@ -21,7 +21,7 @@ This is a self-taught course. The topics are designed by myself mostly following
 - [Lec-9](): Weak Teachers - coming soon
 - [Lec-10](): Inductive Conformal Predictors - coming soon
 - [Lec-11](): Non-concformity scores: further ways - coming soon
-- [Lec-12](): Cross-Conformal and Transductive-Conformal Predictors - coming soon
+- [Lec-12](): Cross & Transductive Conformal Predictors - coming soon
 - [Lec-13](): Conditional Conformal Predictors - coming soon
 - [Lec-14](): Training Conditional Validity - coming soon
 - [Lec-15](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Conformal Test Martingles
@@ -29,7 +29,7 @@ This is a self-taught course. The topics are designed by myself mostly following
 - [Lec-17](): Testing in Anti-Causal Classification - coming soon
 - [Lec-18](): Efficiency of Conformal Testing - coming soon
 - [Lec-19](): Further Topics in Test Martingles - coming soon
-- [Lec-20](): Impossibility of Estimation: Binary Case & Multiclass Case - coming soon
+- [Lec-20](): Impossibility of Estimation: Binary & Multiclass Case - coming soon
 - [Lec-21](): Online Compression Models - coming soon
 - [Lec-22](): Exchangeability Models - coming soon
 - [Lec-23](): Gaussian Models - coming soon
