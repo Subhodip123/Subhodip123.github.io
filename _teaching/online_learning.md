@@ -1,5 +1,5 @@
 ---
-title: "Online Learning"
+title: "Online Prediction and Learning"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-online_learning
