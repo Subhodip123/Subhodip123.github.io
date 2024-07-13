@@ -14,7 +14,7 @@ This is a self-taught course. The topics are designed by myself mostly following
 - [Lec-2](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Confidence Predictors.
 - [Lec-3](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Conformal Predictors.
 - [Lec-4](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Conformalized Ridge & Nearest Neighbors Regression.
-- [Lec-5](): Efficiency of CRR Algorithm.
+- [Lec-5](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Efficiency of CRR Algorithm.
 - [Lec-6](): Conformal Transducers - coming soon
 - [Lec-7](): Conformal Prediction: criteria of efficiency - coming soon
 - [Lec-8](): Non-conformity scores - coming soon
