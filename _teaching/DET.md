@@ -38,3 +38,5 @@ Lecture notes consists of materials from my coursework both at IISc.
 - [Lec-26](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Best Linear Unbaised Estimates (BLUE)
 - [Lec-27](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Gram-Schmidt Orthogonalization
 - [Lec-28](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Kalman Filter
+- [Lec-29](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Relation between Min-max and Bayesian testing
+- [Lec-30](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Quickest Change-point Detection

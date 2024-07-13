@@ -14,7 +14,7 @@ This is a self-taught course. The topics are designed by myself mostly following
 - [Lec-2](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Confidence Predictors.
 - [Lec-3](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Conformal Predictors.
 - [Lec-4](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Conformalized Ridge & Nearest Neighbors Regression.
-- [Lec-5](): Efficiency of CRR Algorithm. - coming soon
+- [Lec-5](): Efficiency of CRR Algorithm.
 - [Lec-6](): Conformal Transducers - coming soon
 - [Lec-7](): Conformal Prediction: criteria of efficiency - coming soon
 - [Lec-8](): Non-conformity scores - coming soon
@@ -25,7 +25,7 @@ This is a self-taught course. The topics are designed by myself mostly following
 - [Lec-13](): Conditional Conformal Predictors - coming soon
 - [Lec-14](): Training Conditional Validity - coming soon
 - [Lec-15](https://drive.google.com/drive/folders/1CStQPaQJYOXyokzoKSrOyBbt9g13Gar3): Conformal Test Martingles
-- [Lec-16](): Multi-stage Randomness Detection - coming soon
+- [Lec-16](): Multi-stage Randomness Detection
 - [Lec-17](): Testing in Anti-Causal Classification - coming soon
 - [Lec-18](): Efficiency of Conformal Testing - coming soon
 - [Lec-19](): Further Topics in Test Martingles - coming soon
