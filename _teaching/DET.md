@@ -40,3 +40,9 @@ Lecture notes consists of materials from my coursework both at IISc.
 - [Lec-28](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Kalman Filter
 - [Lec-29](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Relation between Min-max and Bayesian testing
 - [Lec-30](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Quickest Change-point Detection
+- [Lec-31](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Convex Statistical Distances
+- [Lec-32](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Ali-Silvey Distance
+- [Lec-33](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Simple Lower Bounds and Chernoff Bounds
+- [Lec-34](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Application of Chernoff Bounds
+- [Lec-35](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Bounds on Classification error
+- [Lec-36](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Theory of Large Deviation - coming soon
