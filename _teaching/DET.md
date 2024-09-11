@@ -42,7 +42,7 @@ Lecture notes consists of materials from my coursework both at IISc.
 - [Lec-30](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Quickest Change-point Detection
 - [Lec-31](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Convex Statistical Distances
 - [Lec-32](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Ali-Silvey Distance
-- [Lec-33](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Simple Lower Bounds and Chernoff Bounds - coming soon
-- [Lec-34](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Application of Chernoff Bounds - coming soon
+- [Lec-33](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Simple Lower Bounds and Chernoff Bounds
+- [Lec-34](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Application of Chernoff Bounds
 - [Lec-35](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Bounds on Classification error - coming soon
 - [Lec-36](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Theory of Large Deviation - coming soon - coming soon
