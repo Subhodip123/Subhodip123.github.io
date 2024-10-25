@@ -44,5 +44,4 @@ Lecture notes consists of materials from my coursework both at IISc.
 - [Lec-32](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Ali-Silvey Distance
 - [Lec-33](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Simple Lower Bounds and Chernoff Bounds
 - [Lec-34](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Application of Chernoff Bounds
-- [Lec-35](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Bounds on Classification error - coming soon
-- [Lec-36](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Theory of Large Deviation - coming soon - coming soon
+- [Lec-35](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Application of Large Deviation Bounds
