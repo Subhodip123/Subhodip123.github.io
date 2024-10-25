@@ -4,7 +4,7 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2024-info_theo_learning
 venue: "IISc"
-date: 2024-00-00
+date: 2024-12-01
 location: "Bengaluru, India"
 ---
 
