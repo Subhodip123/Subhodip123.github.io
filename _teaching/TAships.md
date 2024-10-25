@@ -2,9 +2,9 @@
 title: "Teaching Assistant for Graduate Courses"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2023-teaching-1
+permalink: /teaching/2024-TAShips
 venue: "IISc"
-date: 2024-06-27
+date: 2024-00-00
 location: "Bengaluru, India"
 ---
 
