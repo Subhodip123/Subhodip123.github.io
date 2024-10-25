@@ -2,13 +2,13 @@
 title: "Information Theoretic Learning"
 collection: courses
 type: "Graduate Course"
-permalink: /teaching/2025-info_theo_learning
+permalink: /teaching/2024-info_theo_learning
 venue: "IISc"
-date: 2025-12-01
+date: 2024-00-00
 location: "Bengaluru, India"
 ---
 
-This is a self-taught course. The topics are designed by myself mostly following the book: [**Information Theory: From Coding to Learning by Y. Polyanskiy and Y. Wu.**](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf).
+This is a self-taught course. The topics are designed by myself mostly following the book: [**Information Theory: From Coding to Learning by Y. Polyanskiy and Y. Wu**](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf).
 
 - [Lec-1](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Introduction and Probability review.
 - [Lec-2](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Uncertainty Modeling and Motivating Examples
