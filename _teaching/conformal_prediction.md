@@ -2,9 +2,9 @@
 title: "Conformal Prediction and Learning"
 collection: courses
 type: "Graduate Course"
-permalink: /teaching/2024-conformal_prediction
+permalink: /teaching/2025-conformal_prediction
 venue: "IISc"
-date: 2024-06-01
+date: 2025-12-01
 location: "Bengaluru, India"
 ---
 

@@ -4,7 +4,7 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-DET
 venue: "IISc"
-date: 2022-06-01
+date: 2022-05-01
 location: "Bengaluru, India"
 ---
 

@@ -4,7 +4,7 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-multivariable_calculus
 venue: "ISI & IISc"
-date: 2023-12-01
+date: 2022-01-01
 location: "Bengaluru, India"
 ---
 

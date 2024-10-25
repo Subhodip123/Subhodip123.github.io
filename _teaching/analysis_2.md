@@ -4,7 +4,7 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-analysis_2
 venue: "IISc"
-date: 2023-06-01
+date: 2023-05-01
 location: "Bengaluru, India"
 ---
 
