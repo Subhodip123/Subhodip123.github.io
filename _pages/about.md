@@ -14,9 +14,9 @@ redirect_from:
 
 ## 🤔 Research Interests
 
-My broader research interest lies in the domain of *privacy and uncertainty aware learning algorithms*.  I am curious to know what each data point contributes in the learning process and I believe that privacy ([Diffential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) can help understand what these deep networks learn from each datapoint and if needed how we can unlearn ([Machine Unlearning](https://arxiv.org/abs/2209.02299)).Also, I am fascinated by distribution free uncertainty estimations for deep neural networks. Below are some of the topics that I am interested in:
+My broader research interest lies in the domain of *privacy and uncertainty aware learning algorithms*.  I am curious to know what each data point contributes in the learning process and I believe that privacy ([Diffential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) can help understand what these deep networks learn from each datapoint and if needed how we can unlearn ([Machine Unlearning](https://arxiv.org/abs/2209.02299)). Also, I am fascinated by distribution free uncertainty estimations for deep neural networks. Below are some of the topics that I am interested in:
 
-- **📍Privacy:** Machine Unlearning and Differential Privacy.
+- **📌 Privacy:** Machine Unlearning and Differential Privacy.
 <!-- I am creating a community on Machine Unleanrning as this is a fairly new area. Please join the group: [Machine-Unleanrning](https://discord.gg/YU9T5pvF) if interested. -->
-- **📍Uncertainty:** Conformal Prediction and Calibration.
+- **📌 Uncertainty:** Conformal Prediction and Calibration.
 <!-- - **AI for Climate Change:** Novel Applications of representation learning for climate change problems. If you are interested to know more click here to join the group: [AI4ClimateChange](https://discord.gg/erxxGtY2) -->
