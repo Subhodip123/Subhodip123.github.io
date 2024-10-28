@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra"
+title: "📔 Linear Algebra"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-linear_algebra

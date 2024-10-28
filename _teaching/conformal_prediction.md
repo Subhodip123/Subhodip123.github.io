@@ -1,5 +1,5 @@
 ---
-title: "Conformal Prediction and Learning"
+title: "📔 Conformal Prediction and Learning"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2024-conformal_prediction

@@ -1,5 +1,5 @@
 ---
-title: "Information Theoretic Learning"
+title: "📔 Information Theoretic Learning"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2024-info_theo_learning

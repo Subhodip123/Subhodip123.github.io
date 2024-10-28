@@ -1,5 +1,5 @@
 ---
-title: "Real Analysis"
+title: "📔 Real Analysis"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-analysis_1

@@ -1,5 +1,5 @@
 ---
-title: "Differentially Private Learning"
+title: "📔 Differentially Private Learning"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-DP_learning

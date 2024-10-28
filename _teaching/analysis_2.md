@@ -1,5 +1,5 @@
 ---
-title: "Measure Theory"
+title: "📔 Measure Theory"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-analysis_2

@@ -1,5 +1,5 @@
 ---
-title: "Multivariable Calculus"
+title: "📔 Multivariable Calculus"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-multivariable_calculus

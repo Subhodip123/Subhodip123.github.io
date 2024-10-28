@@ -1,5 +1,5 @@
 ---
-title: "Detection and Estimation Theory"
+title: "📔 Detection and Estimation Theory"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-DET

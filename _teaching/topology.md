@@ -1,5 +1,5 @@
 ---
-title: "Topology"
+title: "📔 Topology"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-topology

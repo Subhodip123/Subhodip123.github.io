@@ -1,5 +1,5 @@
 ---
-title: "Algebra"
+title: "📔 Algebra"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-algebra

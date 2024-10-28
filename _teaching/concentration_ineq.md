@@ -1,5 +1,5 @@
 ---
-title: "Concentration Inequalities"
+title: "📔 Concentration Inequalities"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2024-concentration_ineq
