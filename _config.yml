@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Subhodip Panda"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Subhodip Panda"
 description              : &description "personal description"
