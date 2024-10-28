@@ -8,7 +8,7 @@ date: 2023-05-01
 location: "Bengaluru, India"
 ---
 
-Lecture notes consists of materials from my coursework at IISc.
+**📌 Logistics:** Lecture notes consists of materials from my coursework at IISc.
 
 - [Lec-1](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Introduction to Measure.
 - [Lec-2](https://drive.google.com/drive/folders/1h1369Foi1jN8YwV_3U86VLnzjtmkHEO7): Definition of Measures.

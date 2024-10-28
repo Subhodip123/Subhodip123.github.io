@@ -8,7 +8,7 @@ date: 2022-05-01
 location: "Bengaluru, India"
 ---
 
-Lecture notes consists of materials from my coursework both at IISc.
+**📌 Logistics:** Lecture notes consists of materials from my coursework both at IISc.
 
 - [Lec-1](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Introduction
 - [Lec-2](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Probability Review

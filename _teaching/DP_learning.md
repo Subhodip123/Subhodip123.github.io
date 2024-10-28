@@ -8,7 +8,7 @@ date: 2023-05-01
 location: "Bengaluru, India"
 ---
 
-These are self prepared notes required for my research on Differential Privacy.
+**📌 Logistics:** These are self prepared notes required for my research on Differential Privacy.
 
 - [Lec-1](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Introduction to Differential Privacy (DP).
 - [Lec-2](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Randomized response and Laplace mechanism.

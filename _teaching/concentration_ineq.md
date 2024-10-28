@@ -8,7 +8,7 @@ date: 2024-05-01
 location: "Bengaluru, India"
 ---
 
-Lecture notes consists of materials from my coursework at IISc.
+**📌 Logistics:** Lecture notes consists of materials from my coursework at IISc.
 
 - [Lec-1](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Introduction to Concentration Inequalities
 - [Lec-2](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Cramer-Chernoff Method

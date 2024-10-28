@@ -8,7 +8,7 @@ date: 2024-12-01
 location: "Bengaluru, India"
 ---
 
-This is a self-taught course. The topics are designed by myself mostly following the book: [**Information Theory: From Coding to Learning by Y. Polyanskiy and Y. Wu**](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf).
+**📌 Logistics:** This is a self-taught course. The topics are designed by myself mostly following the book: [**Information Theory: From Coding to Learning by Y. Polyanskiy and Y. Wu**](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf).
 
 - [Lec-1](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Introduction and Probability review.
 - [Lec-2](https://drive.google.com/drive/folders/1-q2EshGiJj7TaRRWJyhTasIelLeYNhfk): Uncertainty Modeling and Motivating Examples

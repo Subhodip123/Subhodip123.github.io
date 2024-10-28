@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Bengaluru, India"
 ---
 
-Lecture notes consists of materials from my coursework both at ISI and IISc.
+**📌 Logistics:** Lecture notes consists of materials from my coursework both at ISI and IISc.
 
 - [Lec-1](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Set Theory.
 - [Lec-2](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Natural and Rational numbers.

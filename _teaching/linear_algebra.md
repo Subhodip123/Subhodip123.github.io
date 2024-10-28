@@ -8,4 +8,4 @@ date: 2022-01-01
 location: "Bengaluru, India"
 ---
 
-Lecture notes consists of materials from my coursework both at ISI and IISc. The course notes are in preperation will be posted soon.
+**📌 Logistics:** Lecture notes consists of materials from my coursework both at ISI and IISc. The course notes are in preperation will be posted soon.
