@@ -1,5 +1,5 @@
 ---
-title: "✍️ Talks and Presentations"
+title: "🗣️ Talks and Presentations"
 collection: talks
 type: "Reviewer"
 permalink: /talks/2023-review_works
