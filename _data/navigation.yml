@@ -9,10 +9,10 @@ main:
   # - title: "Courses"
   #   url: /courses/
 
-  - title: "Teaching and Courses"
+  - title: "Academic Courses"
     url: /teaching/    
     
-  - title: "Academic Services"
+  - title: "Professional Services"
     url: /talks/   
 
   - title: "Blog Posts"
