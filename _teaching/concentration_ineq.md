@@ -28,3 +28,9 @@ location: "Bengaluru, India"
 - [Lec-16](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Marton's Conditional Cost Inequality
 - [Lec-17](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Isoperimetry
 - [Lec-18](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Bounding Concentration Function
+- [Lec-19](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Log-Sobolev Ineq. & connection to Stam's Ineq.
+- [Lec-20](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Log-Sobolev & Stam's Ineq: information theoretic view
+- [Lec-21](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Hyper-contractivity
+- [Lec-22](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Gaussian Log-Sobolev Ineq. & connection to hyper-contractivity
+- [Lec-23](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Uniform Deviation Bounds & Law of Iterated Logarithms 
+- [Lec-24](https://drive.google.com/drive/folders/1dk2EHeyXf-F_blUB40El7VME4CTLN8Ye): Concentration of Self Bounding Functions
