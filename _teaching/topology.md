@@ -2,9 +2,9 @@
 title: "📔 Topology"
 collection: courses
 type: "Graduate Course"
-permalink: /teaching/2023-topology
+permalink: /teaching/2022-topology
 venue: "IISc"
-date: 2023-12-01
+date: 2022-01-01
 location: "Bengaluru, India"
 ---
 

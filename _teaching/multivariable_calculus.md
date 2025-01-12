@@ -2,7 +2,7 @@
 title: "📔 Multivariable Calculus"
 collection: courses
 type: "Graduate Course"
-permalink: /teaching/2023-multivariable_calculus
+permalink: /teaching/2022-multivariable_calculus
 venue: "ISI & IISc"
 date: 2022-01-01
 location: "Bengaluru, India"
