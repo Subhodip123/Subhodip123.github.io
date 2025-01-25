@@ -18,9 +18,9 @@ location: "Bengaluru, India"
 - [Lec-6](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Advanced Composition Theorems - coming soon
 - [Lec-7](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Sparse vector techniques and Subsample-Aggregate - coming soon
 - [Lec-8](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Lower Bounds for DP - coming soon
-- [Lec-9](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): PAC Learning - coming soon
-- [Lec-10](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Radamacher Compelxity - coming soon
-- [Lec-11](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): VC Dimension - coming soon
+- [Lec-9](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): PAC Learning
+- [Lec-10](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Radamacher Complexity
+- [Lec-11](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): VC Dimension
 - [Lec-12](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): ERM & SRM - coming soon
 - [Lec-13](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Private PAC Learning - coming soon
 - [Lec-14](https://drive.google.com/drive/folders/10cTVxr8FsqPLcIZAtOjGN_lGq-HqdU6u): Online Learning with DP - coming soon
