@@ -16,13 +16,13 @@ redirect_from:
 
 🧠 My broader research focus lies in designing **privacy- and uncertainty-aware learning algorithms**. I am particularly curious about understanding the contribution of individual data points in the learning process and developing techniques to *remove* or "unlearn" the effect of specific data. Additionally, I am interested in **distribution-free uncertainty estimation** for deep learning.
 
-💡 I believe **[Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)** offers a powerful lens into this question, and **[Machine Unlearning](https://arxiv.org/abs/2209.02299)** provides practical tools to achieve it.
+💡 I believe **[Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)** offers a powerful theoretical lens into this question, and **[Machine Unlearning](https://arxiv.org/abs/2209.02299)** provides practical tools to achieve it.
 
 ### 📚 Topics of Interest
 
 - 🔐 **Privacy**: Machine Unlearning, Differential Privacy  
 - 🎲 **Uncertainty**: Conformal Prediction, Calibration  
-- 📘 **Others**: Statistical Learning Theory, Information Theory  
+- 📘 **Others**: Statistics, Statistical Learning Theory, Information Theory  
 
 ---
 
