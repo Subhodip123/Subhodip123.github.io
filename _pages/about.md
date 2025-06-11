@@ -22,7 +22,7 @@ redirect_from:
 
 - 🔐 **Privacy**: Machine Unlearning, Differential Privacy  
 - 🎲 **Uncertainty**: Conformal Prediction, Calibration  
-- 📘 **Others**: Statistics, Statistical Learning Theory, Information Theory  
+- 📘 **Others**: Statistics, Learning Theory, Information Theory  
 
 ---
 
