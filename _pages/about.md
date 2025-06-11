@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🚀 I am a third year Ph.D student at Representation Learning Lab of [ECE department, Indian Institute of Science (IISc), Bangalore](https://ece.iisc.ac.in/), advised by [Dr. Prathosh A.P](https://sites.google.com/view/prathosh/home). I am very fortunate to be mentored by [Dr. Ananda Theertha Suresh](http://theertha.info/) during current years of my Ph.D research. Prior to beginning my doctoral studies, I worked as a research associate at [Oneirix Labs](https://www.oneirix.com/) in the field of Medical Imaging and AI.
+🚀 I am a third year Ph.D student at Representation Learning Lab of [ECE department, Indian Institute of Science (IISc), Bangalore](https://ece.iisc.ac.in/), advised by [Dr. Prathosh A.P](https://sites.google.com/view/prathosh/home). I am very fortunate to be mentored by [Dr. Ananda Theertha Suresh](http://theertha.info/) during current years of my Ph.D research. Prior to beginning my doctoral studies, I worked as a research associate at [Oneirix Labs](https://www.oneirix.com/) in the field of Medical AI.
 
 🧑‍🎓 I have completed my post-graduate studies in Statistics from [Indian Statistical Institute (ISI), Chennai](https://www.isichennai.res.in/) under the supervision of [Prof.Sudheesh Kumar K.](https://www.isichennai.res.in/~skkattu) and undergraduate studies in ECE from [Indian Institute of Engineering Science and Technology (IIEST),Shibpur](https://www.iiests.ac.in/).
 
