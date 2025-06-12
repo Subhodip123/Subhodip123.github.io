@@ -1,5 +1,5 @@
 ---
-title: "📔 Teaching Assistant for Graduate Courses"
+title: "👨‍🏫 Teaching Assistant for Graduate Courses"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2024-TAShips
