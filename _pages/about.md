@@ -14,9 +14,9 @@ redirect_from:
 
 ## 🔍 Research Interests
 
-🧠 My broader research focus lies in designing **privacy- and uncertainty-aware learning algorithms**. I am particularly curious about understanding the contribution of individual data points in the learning process and developing techniques to *remove* or "unlearn" the effect of specific data. Additionally, I am interested in **distribution-free uncertainty estimation** for deep learning.
+🧠 My broader research focus lies in designing **privacy- and uncertainty-aware learning algorithms**. I am particularly curious about understanding the contribution of individual data points in the learning process and developing techniques to *remove* or "unlearn" the effect of specific data.
 
-💡 I believe **[Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)** offers a powerful theoretical lens into this question, and **[Machine Unlearning](https://arxiv.org/abs/2209.02299)** provides practical tools to achieve it.
+💡 I believe **[Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)** offers a powerful theoretical lens into this question, and **[Machine Unlearning](https://arxiv.org/abs/2209.02299)** provides practical tools to achieve it. Additionally, I am interested in **distribution-free uncertainty estimation (e.g. conformal prediction)** in statistical learning.
 
 ### 📚 Topics of Interest
 
@@ -27,11 +27,3 @@ redirect_from:
 ---
 
 > 📫 *Feel free to reach out to me via email if your interests align or you'd like to collaborate!*
-
-<!-- ## 🤔 Research Interests
-
-My broader research interest lies in the domain of ***privacy and uncertainty aware learning algorithms***.  I am curious to know what each data point contributes in the learning process and I believe that privacy ([Diffential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) can help understand what these deep networks learn from each datapoint and if needed how we can unlearn ([Machine Unlearning](https://arxiv.org/abs/2209.02299)). Also, I am fascinated by distribution free uncertainty estimations for deep neural networks. Below are some of the topics that I am interested in:
-
-- **📌 Privacy:** Machine Unlearning and Differential Privacy.
-- **📌 Uncertainty:** Conformal Prediction and Calibration.
-- **📌 Others:** Statistical Learning Theory and Information Theory. -->
