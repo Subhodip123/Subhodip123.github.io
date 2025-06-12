@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Bengaluru, India"
 ---
 
-**📌 Logistics:** Lecture notes consists of materials from my coursework both at ISI and IISc. Further course notes are in preperation will be posted soon.
+**📌 Logistics:** These notes have been compiled from coursework undertaken at ISI and IISc. Further materials are in preparation and will be made available in due course.
 
 - [Lec-1](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): Fields & Vector Spaces
 - [Lec-2](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): Properties of $\mathbb{F}$ and Intro to Matrices

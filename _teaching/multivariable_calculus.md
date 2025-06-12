@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Bengaluru, India"
 ---
 
-**📌 Logistics:** Lecture notes consists of materials from my coursework both at ISI and IISc.
+**📌 Logistics:** These notes have been compiled from coursework undertaken at ISI and IISc. Further materials are in preparation and will be made available in due course.
 
 - [Lec-1](https://drive.google.com/drive/folders/1rLwkS8mkyZn6ScLWwF-5rkKP4wv-LbmX): Introduction to Calculus
 - [Lec-2](https://drive.google.com/drive/folders/1rLwkS8mkyZn6ScLWwF-5rkKP4wv-LbmX): Review of Continuity.

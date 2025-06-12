@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Bengaluru, India"
 ---
 
-**📌 Logistics:** These course notes are from my coursework at ISI and IISc. More course notes are in preperation will be posted soon.
+**📌 Logistics:** These notes have been compiled from coursework undertaken at ISI and IISc. Further materials are in preparation and will be made available in due course.
 
 - [Lec-1](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Introduction to topology
 - [Lec-2](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Topological spaces

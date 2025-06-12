@@ -8,7 +8,7 @@ date: 2022-12-01
 location: "Bengaluru, India"
 ---
 
-**📌 Logistics:** Lecture notes consists of materials from my coursework at IISc.
+**📌 Logistics:** These notes have been compiled from coursework undertaken at IISc.
 
 - [Lec-1](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Introduction to Online Learning.
 - [Lec-2](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Predictions with Experts
