@@ -3,7 +3,7 @@ title: "📔 Topology"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-topology
-venue: "IISc"
+venue: "ISI & IISc"
 date: 2022-01-01
 location: "Bengaluru, India"
 ---

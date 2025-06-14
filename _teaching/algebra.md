@@ -3,8 +3,8 @@ title: "📔 Algebra"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-algebra
-venue: "IISc"
-date: 2023-12-01
+venue: "ISI & IISc"
+date: 2022-01-01
 location: "Bengaluru, India"
 ---
 
