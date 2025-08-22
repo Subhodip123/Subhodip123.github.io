@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Subhodip Panda"
   avatar           : "sub_ias.jpg"
-  bio              : "Ph.D student at ECE,IISc"
+  bio              : "Ph.D student at ECE, IISc"
   location         : "Bengaluru,India"
-  employer         :
+  employer         : "Indian Institute of Science (IISc)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=gYUOZNQAAAAJ"
-  email            : "first_name+p@iisc.ac.in"
+  email            : "subhodipp at iisc dot ac dot in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
