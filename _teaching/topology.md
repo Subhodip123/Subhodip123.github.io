@@ -15,3 +15,8 @@ location: "Bengaluru, India"
 - [Lec-3](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Bases of Topology
 - [Lec-4](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Metric Spaces
 - [Lec-5](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Hausdorff distance & Ultra-Metrics
+- [Lec-6](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Sub-space Topology & its properties
+- [Lec-7](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Continious Functions
+- [Lec-8](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Continuity
+- [Lec-9](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Topological Concepts
+- [Lec-10](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Homeomorphisms and Order Topology
