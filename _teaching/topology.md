@@ -20,3 +20,6 @@ location: "Bengaluru, India"
 - [Lec-8](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Continuity
 - [Lec-9](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Topological Concepts
 - [Lec-10](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Homeomorphisms and Order Topology
+- [Lec-11](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Criteria for Continuity
+- [Lec-12](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Connectedness Property
+- [Lec-13](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Intermediate Value Theorem
