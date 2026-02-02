@@ -2,9 +2,9 @@
 title: "📔 Algebra"
 collection: courses
 type: "Graduate Course"
-permalink: /teaching/2023-algebra
+permalink: /teaching/2022-algebra
 venue: "ISI & IISc"
-date: 2022-01-01
+date: 2022-01-02
 location: "Bengaluru, India"
 ---
 
