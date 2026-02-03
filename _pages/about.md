@@ -16,9 +16,9 @@ redirect_from:
 
 ## 🔍 Research Interests
 
-🧠 My broader research focus lies in designing **privacy- and uncertainty-aware learning algorithms**. I am particularly curious about understanding the contribution of individual data points in the learning process and developing techniques to *remove* or "unlearn" the effect of specific data.
+🧠 My broader research interest lies in **Trusworty Machine Learning**. Particulary my current thesis focus has been designing and analyzing **privacy- and uncertainty-aware learning algorithms**. I am particularly curious about understanding the contribution of individual data points in the learning process and developing techniques to *estimate* and *unlearn* the effect of specific data. I believe **[Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)** offers a powerful theoretical lens into this question, and **[Machine Unlearning](https://arxiv.org/abs/2209.02299), Influence Estimation (Data Attribution)** provides practical tools to achieve it.
 
-💡 I believe **[Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)** offers a powerful theoretical lens into this question, and **[Machine Unlearning](https://arxiv.org/abs/2209.02299)** provides practical tools to achieve it. Additionally, I am interested in **distribution-free uncertainty estimation (e.g. conformal prediction)** for statistical/deep learning.
+💡 Additionally, I also work in topics related Diffusion Models, Fragility of Optimal Bandit Algorithms, Statistical Opitmal Transport, and **distribution-free uncertainty estimation (e.g. conformal prediction)** for statistical/deep learning problems.
 
 ### 📚 Topics of Interest
 
