@@ -2,12 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
- 
-  # - title: "Projects"
-  #   url: /projects/
-
-  # - title: "Courses"
-  #   url: /courses/
 
   - title: "Academic Courses"
     url: /teaching/    
@@ -17,9 +11,12 @@ main:
 
   - title: "Blog Posts"
     url: /posts/
-    
-  # - title: "CV"
-  #   url: /cv/
+  
+  # - title: "Projects"
+  #   url: /projects/
+
+  - title: "CV"
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
