@@ -16,9 +16,9 @@ redirect_from:
 
 ## 🔍 Research Interests
 
-🧠 My broader research interest lies in **Trusworty Machine Learning**. Particulary my current thesis focus has been designing and analyzing **privacy- and uncertainty-aware learning algorithms**. I am particularly curious about understanding the contribution of individual data points in the learning process and developing techniques to *estimate* and *unlearn* the effect of specific data. I believe **[Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)** offers a powerful theoretical lens into this question, and **[Machine Unlearning](https://arxiv.org/abs/2209.02299), Influence Estimation (Data Attribution)** provides practical tools to achieve it.
+🧠 My broader research interest lies in **Trusworty Machine Learning**. Particulary my current thesis focus has been designing and analyzing *privacy- and uncertainty-aware learning algorithms*. I am particularly curious about understanding the contribution of individual data points in the learning process and developing techniques to *estimate* and *unlearn* the effect of specific data. I believe *[Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)* offers a powerful theoretical lens into this question, and *[Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/32682), [Influence Estimation (Data Attribution)](https://arxiv.org/pdf/2510.10510)* provides practical tools to achieve it.
 
-💡 Additionally, I also work in topics related Diffusion Models, Fragility of Optimal Bandit Algorithms, Statistical Opitmal Transport, and **distribution-free uncertainty estimation (e.g. conformal prediction)** for statistical/deep learning problems.
+💡 I also work on topics related to *[Diffusion Models](https://arxiv.org/pdf/2510.04058?)* and *[Fragility issues in Bandit Algorithms](https://drive.google.com/file/d/1d5bjPzPTV-u1idNil5g80IeTZwb54iww/view?usp=sharing)*. Additionally, I am very intereested on *Statistical Opitmal Transport*, and *Conformal Prediction* for statistical/deep learning problems.
 
 ### 📚 Topics of Interest
 
