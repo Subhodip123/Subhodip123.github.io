@@ -12,7 +12,7 @@ redirect_from:
 
 🧑‍💼 I have gained experience through multiple full-time and internship roles in industry as well. I was a Ph.D research intern  at [Adobe Research, Bangalore](https://research.adobe.com/careers/bangalore/) working on data attribution for vision language models. Before this, I had the opportunity to spend a brief but enriching period as a Research Associate at [Oneirix Labs](https://www.oneirix.com/), where I was involved in developing algorithms using *applied mathematics* and *computational statistics*, with a particular emphasis on their applications in Medical AI. During my undergrad, I also worked as a research intern at *Laboratory for Electro-Optics Systems (LEOS)* of [Indian Space Research Organization](https://www.isro.gov.in/LEOS.html).
 
-🏢 **I will be completing my Ph.D degree this year and currently seeking full-time research positions. Here is my [CV](/files/CV_subhodip_updated.pdf). Feel free to reachout if you have any relevant open positions!**  
+⭐⭐ ***I will be completing my Ph.D degree this year and currently seeking full-time research positions. Here is my [CV](/files/CV_subhodip_updated.pdf). Feel free to reachout if you have any relevant open positions!***  
 
 ## 🔍 Research Interests
 
