@@ -13,5 +13,5 @@ location: "Bengaluru, India"
 - [Lec-1](https://drive.google.com/drive/folders/1bCKa1FQ7BbT2HYSs_fwvSvWv832ToKhz): Introduction to Groups
 - [Lec-2](https://drive.google.com/drive/folders/1bCKa1FQ7BbT2HYSs_fwvSvWv832ToKhz): Sub-groups & Cosets
 - [Lec-3 & Lec-4](https://drive.google.com/drive/folders/1bCKa1FQ7BbT2HYSs_fwvSvWv832ToKhz): Properties of Cosets
-- [Lec-5](https://drive.google.com/drive/folders/1bCKa1FQ7BbT2HYSs_fwvSvWv832ToKhz): Morphisims
-- [Lec-6](https://drive.google.com/drive/folders/1bCKa1FQ7BbT2HYSs_fwvSvWv832ToKhz): Morphisims Continued...
+- [Lec-5](https://drive.google.com/drive/folders/1bCKa1FQ7BbT2HYSs_fwvSvWv832ToKhz): Morphisms
+- [Lec-6](https://drive.google.com/drive/folders/1bCKa1FQ7BbT2HYSs_fwvSvWv832ToKhz): Morphisms Continued...

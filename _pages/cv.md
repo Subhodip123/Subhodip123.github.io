@@ -1,6 +1,6 @@
 ---
 
-I will be completing my Ph.D degree this year and currently seeking full-time research positions. Here is my [CV](/files/CV_subhodip_updated.pdf). Feel free to reachout if you have any relevant open positions!  
+I will be completing my Ph.D degree this year and currently seeking full-time research positions. Here is my [CV](/files/CV_subhodip_updated.pdf). Feel free to reach out if you have any relevant open positions!  
 
 # <!-- ---
 # layout: archive

@@ -5,7 +5,7 @@ type: "Reviewer"
 permalink: /talks/2023-review_works
 venue: #"London School of Testing"
 date: 2023-02-01
-location: "Bengaluru, Inda"
+location: "Bengaluru, India"
 ---
 
 - 📍 2024/01/22: [Comprehensive Exam Presentation](/files/Compre_Presentation.pdf) at IISc.

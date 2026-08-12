@@ -12,7 +12,7 @@ location: "Bengaluru, India"
 
 - [Lec-1](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): Fields & Vector Spaces
 - [Lec-2](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): Properties of $\mathbb{F}$ and Intro to Matrices
-- [Lec-3](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): Linear Sytem of Equations
+- [Lec-3](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): Linear System of Equations
 - [Lec-4](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): RREF & its properties
 - [Lec-5](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): Vectors Spaces
 - [Lec-6 & Lec-7](https://drive.google.com/drive/folders/1C7zoexfoqzHwo2e5FP3oHlcHLrf8okB4): Span and Bases

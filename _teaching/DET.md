@@ -28,14 +28,14 @@ location: "Bengaluru, India"
 - [Lec-16](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): MAP & MMSE Estimates
 - [Lec-17](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): MMSE properties
 - [Lec-18](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Linear Least Squares Estimates (LLSE)
-- [Lec-19](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Properities of LLSE
+- [Lec-19](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Properties of LLSE
 - [Lec-20](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): LLSE: some examples
 - [Lec-21](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Non-random Parameter Estimation
 - [Lec-22](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Cramer-Rao Lower Bound
 - [Lec-23](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Consistent and Efficient Estimators
 - [Lec-24](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Sufficient Statistics & Neyman-Fisher Factorization
 - [Lec-25](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Rao-Blackwell Theorem
-- [Lec-26](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Best Linear Unbaised Estimates (BLUE)
+- [Lec-26](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Best Linear Unbiased Estimates (BLUE)
 - [Lec-27](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Gram-Schmidt Orthogonalization
 - [Lec-28](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Kalman Filter
 - [Lec-29](https://drive.google.com/drive/folders/1MBiLF7rQ-H-VY5zvVEYndHAuL6fEMRPu): Relation between Min-max and Bayesian testing

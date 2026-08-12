@@ -30,11 +30,11 @@ location: "Bengaluru, India"
 - [Lec-18](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Discontinuities
 - [Lec-19](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Differentiation
 - [Lec-20](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Mean Value Theorems
-- [Lec-21](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Reimann Integration
-- [Lec-22](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Further topics on Reimann Integration
+- [Lec-21](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Riemann Integration
+- [Lec-22](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Further topics on Riemann Integration
 - [Lec-23](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Uniform Convergence
 - [Lec-24](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Equi-Continuity
-- [Lec-25](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Arzela-Ascolli Theorem
+- [Lec-25](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Arzela-Ascoli Theorem
 - [Lec-26](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Weierstrass Approximation Theorem
 - [Lec-27](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Introduction to Multivariable Calculus
 - [Lec-28](https://drive.google.com/drive/folders/1Ed6TR9b2NWrZlk_XvkVgeqtedN-EP-V5): Directional Derivatives

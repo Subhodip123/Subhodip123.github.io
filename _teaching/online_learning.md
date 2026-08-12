@@ -18,10 +18,10 @@ location: "Bengaluru, India"
 - [Lec-6](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Follow The Leader (FTL)
 - [Lec-7](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Introduction to Follow the Regularized Leader (FTRL)
 - [Lec-8](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Analysis of FTRL
-- [Lec-9](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): FTRL futher examples and analysis
-- [Lec-10](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Geometrix view of FTRL
+- [Lec-9](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): FTRL further examples and analysis
+- [Lec-10](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Geometric view of FTRL
 - [Lec-11](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Convex Geometry & Dual Functions
-- [Lec-12](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Frenchel Duality
+- [Lec-12](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Fenchel Duality
 - [Lec-13](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Online Mirror Descent
 - [Lec-14](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Optimization Theory view
 - [Lec-15](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Online Convex Optimization with Bandits
@@ -32,6 +32,6 @@ location: "Bengaluru, India"
 - [Lec-20](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): UCB: Regret bound analysis
 - [Lec-21](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Introduction to Thompson Sampling
 - [Lec-22 & Lec-23](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Regret Analysis: Thompson Sampling
-- [Lec-24](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): General Stochastic Multiarm Bandits
+- [Lec-24](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): General Stochastic Multi-armed Bandits
 - [Lec-25 & Lec-26 & Lec-27](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Fundamental limits of Bandit learning
 - [Lec-28](https://drive.google.com/drive/folders/1O2raPpP5IENeMGQyE1I3hQ7vKp688BlH): Structured Bandits
