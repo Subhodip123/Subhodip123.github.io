@@ -20,14 +20,8 @@ Recently, I have completed my Ph.D from the [ECE department, Indian Institute of
 <div style="background-color: #fef4e6; border-left: 4px solid #f89406; border-radius: 6px; padding: 0.8em 1em;"><b style="color: #ae6804; font-size: 1.02em;">📘 Others</b><br><span style="font-size: 0.93em;">Statistics, Learning Theory, Information Theory</span></div>
 </div>
 
-## 📢 Recent News
-
-<div style="max-height: 260px; overflow-y: auto; border: 1px solid #dcdcdc; border-radius: 6px; padding: 0.9em 1.2em 0.2em 1.2em; margin-bottom: 1.5em; background-color: #fcfcfc;">
-{% for item in site.data.news %}<p style="margin: 0 0 0.7em 0; line-height: 1.5;"><b style="color: SteelBlue; white-space: nowrap;">{{ item.date }}</b> &nbsp;&mdash;&nbsp; {{ item.text }}</p>
-{% endfor %}</div>
-
 <details>
-<summary style="cursor: pointer; color: SteelBlue; font-size: 1.1em; font-weight: bold; margin-bottom: 0.5em;">📚 Brief Research Summary</summary>
+<summary style="cursor: pointer; color: SteelBlue; font-size: 1.1em; font-weight: bold; margin-bottom: 0.5em;">📚 Brief Research Summary <span style="font-size: 0.8em; font-weight: normal; color: #888;">(click to expand)</span></summary>
 
 <div class="abstract-text" style="font-size: 1em; color: Black; text-align: justify; margin-top: 0.5em;" markdown="1">
 
@@ -38,9 +32,15 @@ I also work on topics related to [Diffusion Models](https://arxiv.org/pdf/2510.0
 </div>
 </details>
 
+## 📢 Recent News
+
+<div style="max-height: 260px; overflow-y: auto; border: 1px solid #dcdcdc; border-radius: 6px; padding: 0.9em 1.2em 0.2em 1.2em; margin-bottom: 1.5em; background-color: #fcfcfc;">
+{% for item in site.data.news %}<p style="margin: 0 0 0.7em 0; line-height: 1.5;"><b style="color: SteelBlue; white-space: nowrap;">{{ item.date }}</b> &nbsp;&mdash;&nbsp; {{ item.text }}</p>
+{% endfor %}</div>
+
 ---
 
 <div class="notice--info" markdown="1">
-#### 📫 Get in Touch
+### 📫 Get in Touch
 Feel free to reach out to me via **email** if your interests align or you'd like to collaborate — I'm always happy to discuss research!
 </div>
