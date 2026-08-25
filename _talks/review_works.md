@@ -10,3 +10,5 @@ location: "Bengaluru, India"
 
 - 📍 2023: NeurIPS
 - 📍 2024: ICLR, ICML, AAAI
+- 📍 2025: UAI
+- 📍 2026: NeurIPS
