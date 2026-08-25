@@ -30,13 +30,6 @@ My broader research interest lies in **Trustworthy Machine Learning**. In partic
 </div>
 </details>
 
-## 🔬 Featured Work
-
-<div style="border: 1px solid #dcdcdc; border-radius: 6px; padding: 1em; margin: 1em 0 1.5em 0; background-color: #fcfcfc;">
-<a href="https://arxiv.org/abs/2510.10510"><img src="/images/f-INE.drawio.png" alt="f-INE: Influence Estimation using Hypothesis Testing" style="width: 100%; height: auto; display: block; border-radius: 4px;"></a>
-<p style="margin: 0.9em 0 0 0; font-size: 0.9em; line-height: 1.55; color: #555;"><b style="color: SteelBlue;">f-INE: Influence Estimation using Hypothesis Testing</b> &nbsp;&mdash;&nbsp; a hypothesis-testing framework that measures how much a training example influences a model's prediction, while explicitly accounting for training-time randomness &mdash; estimated in a single training run. <a href="https://arxiv.org/abs/2510.10510">[Paper]</a></p>
-</div>
-
 ## 📢 Recent News
 
 <div style="max-height: 260px; overflow-y: auto; border: 1px solid #dcdcdc; border-radius: 6px; padding: 0.9em 1.2em 0.2em 1.2em; margin-bottom: 1.5em; background-color: #fcfcfc;">
@@ -45,7 +38,7 @@ My broader research interest lies in **Trustworthy Machine Learning**. In partic
 
 ---
 
-<div class="notice--info" markdown="1">
+<div class="notice--info" style="max-width: 28em;" markdown="1">
 ### 📫 Get in Touch
 Feel free to reach out to me via **email** if your interests align or you'd like to collaborate — I'm always happy to discuss research!
 </div>
