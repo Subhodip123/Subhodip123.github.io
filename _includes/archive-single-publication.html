@@ -11,31 +11,32 @@
 {% elsif post.paperurl contains "neurips.cc" %}{% assign link_label = "NeurIPS" %}
 {% else %}{% assign link_label = "Paper" %}{% endif %}
 
-<div class="pub-tile {{ post.type }}">
-  <div class="pub-banner">
-    {% if post.image and post.image != "" %}
-      <a href="{{ post.paperurl }}" target="_blank"><img src="{{ base_path }}/images/{{ post.image }}" alt="{{ clean_title | escape }}" loading="lazy"></a>
-    {% else %}
-      <div class="pub-banner-empty"><span>{{ post.venue_short }}</span></div>
-    {% endif %}
-    <span class="pub-pill">{{ post.venue_short }}</span>
-  </div>
+{% case post.type %}
+  {% when "journal" %}{% assign pill_bg = "#eff9ef" %}{% assign pill_fg = "#458945" %}{% assign pill_br = "#62c462" %}
+  {% when "workshop" %}{% assign pill_bg = "#fef4e6" %}{% assign pill_fg = "#ae6804" %}{% assign pill_br = "#f89406" %}
+  {% when "preprint" %}{% assign pill_bg = "#f2f2f2" %}{% assign pill_fg = "#555555" %}{% assign pill_br = "#aaaaaa" %}
+  {% else %}{% assign pill_bg = "#eef7fa" %}{% assign pill_fg = "#39798c" %}{% assign pill_br = "#52adc8" %}
+{% endcase %}
 
-  <div class="pub-content">
+<div class="pub-item">
+  <div class="pub-thumb">
+    {% if post.image and post.image != "" %}
+      <a href="{{ post.paperurl }}" target="_blank"><img src="{{ base_path }}/images/{{ post.image }}" alt="{{ clean_title | escape }}"></a>
+    {% else %}
+      <div class="pub-thumb-placeholder" style="background-color: {{ pill_bg }}; color: {{ pill_fg }}; border-color: {{ pill_br }};">{{ post.venue_short }}</div>
+    {% endif %}
+  </div>
+  <div class="pub-body">
     <a class="pub-title" href="{{ post.paperurl }}" target="_blank">{{ clean_title }}</a>
     <div class="pub-authors">{{ post.authors | replace: "Subhodip Panda", "<b>Subhodip Panda</b>" }}</div>
-
-    {% if clean_excerpt != "" %}
-    <details class="pub-abs">
-      <summary>Abstract</summary>
-      <div class="pub-abs-body">{{ clean_excerpt }}</div>
-    </details>
-    {% endif %}
-
+    <div class="pub-meta">
+      <span class="pub-pill" style="background-color: {{ pill_bg }}; color: {{ pill_fg }}; border-color: {{ pill_br }};">{{ post.venue_short }}</span>
+      <span class="pub-venue">{{ post.venue }}</span>
+    </div>
+    {% if clean_excerpt != "" %}<div class="pub-excerpt">{{ clean_excerpt }}</div>{% endif %}
     <div class="pub-links">
-      {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank">{{ link_label }} ↗</a>{% endif %}
-      <a href="{{ base_path }}{{ post.url }}">Details</a>
-      <span class="pub-venue-full">{{ post.venue }}</span>
+      {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank">[{{ link_label }}]</a>{% endif %}
+      <a href="{{ base_path }}{{ post.url }}">[Details]</a>
     </div>
   </div>
 </div>
