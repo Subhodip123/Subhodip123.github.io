@@ -1,19 +1,70 @@
 ---
 layout: archive
 permalink: /posts/
-title: "Blog posts"
+title: "Blog Posts"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
+
+<style>
+.blg-intro { font-size: 0.95em; color: #444; line-height: 1.6; margin-bottom: 1.1em; }
+.blg-stats { margin-bottom: 1.6em; font-size: 0.9em; color: #555; }
+.blg-stats .s { display: inline-block; padding: 0.15em 0.7em; margin: 0 0.3em 0.35em 0;
+  border: 1px solid #dcdcdc; border-radius: 12px; background-color: #fafafa; }
+.blg-year { color: DarkRed !important; margin: 1.5em 0 0.2em 0 !important; font-size: 1.35em !important; }
+.blg-rule { height: 1px; border: none; background-color: #333; margin: 0 0 1.1em 0; }
+.blg-card { border: 1px solid #e2e2e2; border-left: 4px solid #52adc8; border-radius: 6px;
+  padding: 0.9em 1.1em; margin-bottom: 0.9em; background-color: #fcfcfc;
+  transition: box-shadow 0.2s ease, transform 0.2s ease; }
+.blg-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.1); transform: translateY(-2px); }
+.blg-meta { margin-bottom: 0.35em; }
+.blg-date { display: inline-block; padding: 0.12em 0.6em; margin-right: 0.35em;
+  border-radius: 3px; background-color: #eef7fa; color: #39798c;
+  font-size: 0.78em; font-weight: bold; }
+.blg-tag { display: inline-block; padding: 0.12em 0.6em; margin-right: 0.3em;
+  border: 1px solid #cfcfcf; border-radius: 12px; background-color: #f4f4f4;
+  color: #555; font-size: 0.75em; }
+.blg-title { font-weight: bold; font-size: 1.08em; line-height: 1.35; display: block; }
+.blg-excerpt { font-size: 0.88em; color: #666; line-height: 1.55; margin-top: 0.4em; }
+.blg-more { margin-top: 0.5em; font-size: 0.82em; color: #888; }
+.blg-more a { font-weight: bold; }
+</style>
+
+<p class="blg-intro">
+Occasional writing — reflections on research motivation, the parts of a Ph.D. that rarely get talked about,
+and the books I read when I am not working.
+</p>
+
+{% assign words = 0 %}
+{% for post in site.posts %}{% assign w = post.content | number_of_words %}{% assign words = words | plus: w %}{% endfor %}
+{% assign mins = words | divided_by: 200 %}
+
+<div class="blg-stats">
+  <span class="s">✍️ {{ site.posts | size }} posts</span>
+  <span class="s">🏷️ {{ site.tags | size }} topics</span>
+  <span class="s">⏱️ ~{{ mins }} min of reading</span>
+</div>
+
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    <h2 id="{{ year | slugify }}" class="blg-year">{{ year }}</h2>
+    <hr class="blg-rule" />
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
-  {% include archive-single.html %}
+  {% assign pw = post.content | number_of_words %}
+  {% assign pm = pw | divided_by: 200 | plus: 1 %}
+  <div class="blg-card">
+    <div class="blg-meta">
+      <span class="blg-date">{{ post.date | date: '%d %b %Y' }}</span>
+      {% for t in post.tags %}<span class="blg-tag">{{ t }}</span>{% endfor %}
+    </div>
+    <a class="blg-title" href="{{ base_path }}{{ post.url }}">{{ post.title | remove: '✍️ ' }}</a>
+    <div class="blg-excerpt">{{ post.excerpt | strip_html | strip | truncate: 260 }}</div>
+    <div class="blg-more"><a href="{{ base_path }}{{ post.url }}">Continue reading →</a> &nbsp;·&nbsp; {{ pm }} min read</div>
+  </div>
 {% endfor %}
