@@ -1,33 +1,66 @@
-# Content for the "Professional Services" page (_pages/talks.html).
-# Edit here — the page renders from this file.
+# Timeline for the "Professional Services" page (_pages/talks.html).
+# Newest year first; entries render in the order listed within each year.
+#
+# kind: review | journal | workshop | talk | teaching | mentoring
+#   -> chooses the icon and dot colour. `url` and `link_text` are optional.
 
-# --- Peer review: newest year first -----------------------------------------
-reviewing:
+timeline:
+
+  # ---- 2024 ---------------------------------------------------------------
   - year: 2024
-    venues: ["ICLR", "ICML", "AAAI"]
-  - year: 2023
-    venues: ["NeurIPS"]
+    kind: review
+    title: "Conference Reviewer"
+    detail: "ICLR &middot; ICML &middot; AAAI"
 
-# --- Invited talks & presentations: newest first ----------------------------
-talks:
-  - date: "02 Aug 2024"
+  - year: 2024
+    kind: talk
     title: "Annual Review Presentation on Partially Blinded Unlearning"
+    detail: "Indian Institute of Science (IISc), Bangalore &middot; 02 Aug 2024"
     url: "/files/annual_review_24-1.pdf"
-    venue: "Indian Institute of Science (IISc), Bangalore"
-  - date: "22 Jan 2024"
-    title: "Comprehensive Exam Presentation"
-    url: "/files/Compre_Presentation.pdf"
-    venue: "Indian Institute of Science (IISc), Bangalore"
+    link_text: "slides"
 
-# --- Teaching assistantships ------------------------------------------------
-teaching_assistant:
-  - code: "E2-233"
-    name: "Pattern Recognition and Neural Networks"
-    desc: "An introductory course on machine learning and deep learning."
+  - year: 2024
+    kind: talk
+    title: "Comprehensive Exam Presentation"
+    detail: "Indian Institute of Science (IISc), Bangalore &middot; 22 Jan 2024"
+    url: "/files/Compre_Presentation.pdf"
+    link_text: "slides"
+
+  - year: 2024
+    kind: teaching
+    title: "Teaching Assistant &mdash; Pattern Recognition and Neural Networks (E2-233)"
+    detail: "IISc Bangalore &middot; an introductory course on machine learning and deep learning."
     url: "https://sites.google.com/view/prathosh/prnn_2024"
-    term: "2024"
-  - code: "E2-333"
-    name: "Advanced Deep Representation Learning"
-    desc: "An advanced course in representation learning, broadly covering recent research in generative modeling, continual learning, and meta learning."
+    link_text: "course page"
+
+  # ---- 2023 ---------------------------------------------------------------
+  - year: 2023
+    kind: review
+    title: "Conference Reviewer"
+    detail: "NeurIPS"
+
+  - year: 2023
+    kind: teaching
+    title: "Teaching Assistant &mdash; Advanced Deep Representation Learning (E2-333)"
+    detail: "IISc Bangalore &middot; generative modeling, continual learning, and meta learning."
     url: "https://sites.google.com/view/prathosh/adrl-2023-aug"
-    term: "Aug 2023"
+    link_text: "course page"
+
+  # ---- TEMPLATES: uncomment and fill in ------------------------------------
+  # Journal reviewing (kind: journal, 📖 green dot)
+  # - year: 2025
+  #   kind: journal
+  #   title: "Journal Reviewer"
+  #   detail: "TMLR &middot; IEEE Transactions on Artificial Intelligence"
+  #
+  # Workshop / other reviewing (kind: workshop, 🛠️ orange dot)
+  # - year: 2025
+  #   kind: workshop
+  #   title: "Workshop Reviewer / Programme Committee"
+  #   detail: "<workshop name>, <conference> 2025"
+  #
+  # Mentoring (kind: mentoring, 🤝 red dot)
+  # - year: 2025
+  #   kind: mentoring
+  #   title: "Mentored <name>"
+  #   detail: "<programme or project> &middot; <where they are now>"

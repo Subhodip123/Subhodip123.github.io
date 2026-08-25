@@ -8,66 +8,68 @@ author_profile: true
 {% include base_path %}
 
 <style>
-.svc-section { margin-bottom: 2.2em; }
-.svc-head { color: DarkRed !important; margin: 1.4em 0 0.2em 0 !important; font-size: 1.4em !important; }
-.svc-rule { height: 1px; border: none; background-color: #333; margin: 0 0 1em 0; }
-.svc-review-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45em; margin-bottom: 0.7em; }
-.svc-year { font-weight: bold; color: SteelBlue; min-width: 3.2em; }
-.svc-venue { display: inline-block; padding: 0.22em 0.75em; border: 1px solid #52adc8;
-  border-radius: 14px; background-color: #eef7fa; color: #39798c;
-  font-size: 0.85em; font-weight: bold; }
-.svc-card { border: 1px solid #e2e2e2; border-left: 4px solid #52adc8; border-radius: 6px;
-  padding: 0.75em 1em; margin-bottom: 0.7em; background-color: #fcfcfc; }
-.svc-card.ta { border-left-color: #62c462; }
-.svc-date { display: inline-block; padding: 0.12em 0.6em; border-radius: 3px;
-  background-color: #eef7fa; color: #39798c; font-size: 0.78em; font-weight: bold; }
-.svc-code { display: inline-block; padding: 0.12em 0.6em; border-radius: 3px;
-  background-color: #eff9ef; color: #458945; font-size: 0.78em; font-weight: bold; }
-.svc-title { font-weight: bold; font-size: 1em; display: block; margin-top: 0.35em; }
-.svc-sub { font-size: 0.85em; color: #777; font-style: italic; margin-top: 0.15em; }
-.svc-desc { font-size: 0.87em; color: #555; line-height: 1.5; margin-top: 0.3em; }
-.svc-count { font-size: 0.85em; color: #666; margin-bottom: 0.9em; }
+.svc-intro { font-size: 0.95em; color: #444; line-height: 1.6; margin-bottom: 1.1em; }
+.svc-stats { margin-bottom: 1.8em; font-size: 0.9em; color: #555; }
+.svc-stats .s { display: inline-block; padding: 0.15em 0.7em; margin: 0 0.3em 0.35em 0;
+  border: 1px solid #dcdcdc; border-radius: 12px; background-color: #fafafa; }
+
+.tl-group { display: grid; grid-template-columns: 4.4em 1fr; }
+.tl-year { color: DarkRed; font-weight: bold; font-size: 1.2em; padding-top: 0.05em; }
+.tl-items { border-left: 2px solid #e2e2e2; padding-left: 1.5em; padding-bottom: 1.1em; }
+.tl-group:last-child .tl-items { border-left-color: transparent; }
+
+.tl-item { position: relative; margin-bottom: 1.05em; }
+.tl-item:last-child { margin-bottom: 0.2em; }
+.tl-item::before { content: ""; position: absolute; left: calc(-1.5em - 7px); top: 0.35em;
+  width: 12px; height: 12px; border-radius: 50%; background-color: #b9b9b9;
+  border: 2px solid #fff; box-shadow: 0 0 0 1px #dcdcdc; }
+.tl-item.review::before    { background-color: #52adc8; }
+.tl-item.journal::before   { background-color: #62c462; }
+.tl-item.workshop::before  { background-color: #f89406; }
+.tl-item.talk::before      { background-color: #4682b4; }
+.tl-item.teaching::before  { background-color: #7d5fb2; }
+.tl-item.mentoring::before { background-color: #ee5f5b; }
+
+.tl-title { font-weight: bold; font-size: 0.99em; line-height: 1.4; }
+.tl-icon { margin-right: 0.35em; }
+.tl-detail { font-size: 0.86em; color: #6c6c6c; line-height: 1.5; margin-top: 0.15em; }
+.tl-link { font-size: 0.8em; margin-left: 0.4em; white-space: nowrap; }
+@media (max-width: 520px) {
+  .tl-group { grid-template-columns: 3.2em 1fr; }
+  .tl-items { padding-left: 1.1em; }
+  .tl-item::before { left: calc(-1.1em - 7px); }
+}
 </style>
 
-{% if site.talkmap_link == true %}
-<p><a href="/talkmap.html">📍 See a map of all the places I've given a talk!</a></p>
-{% endif %}
+<p class="svc-intro">
+Service to the research community &mdash; peer review for machine learning venues, talks given during my
+doctoral studies, and teaching support for graduate courses at IISc.
+</p>
 
-{% assign n_venues = 0 %}
-{% for r in site.data.services.reviewing %}{% assign n_venues = n_venues | plus: r.venues.size %}{% endfor %}
+{% assign tl = site.data.services.timeline %}
+{% assign years = tl | map: 'year' | uniq | sort | reverse %}
+{% assign n_review = tl | where: 'kind', 'review' | size %}
+{% assign n_talk = tl | where: 'kind', 'talk' | size %}
+{% assign n_teach = tl | where: 'kind', 'teaching' | size %}
 
-<div class="svc-section">
-  <h2 class="svc-head">🧐 Peer Review</h2>
-  <hr class="svc-rule" />
-  <p class="svc-count">Reviewer for <b>{{ n_venues }}</b> conference cycles across machine learning venues.</p>
-  {% for r in site.data.services.reviewing %}
-  <div class="svc-review-row">
-    <span class="svc-year">{{ r.year }}</span>
-    {% for v in r.venues %}<span class="svc-venue">{{ v }}</span>{% endfor %}
-  </div>
-  {% endfor %}
+<div class="svc-stats">
+  <span class="s">🧐 {{ n_review }} review cycles</span>
+  <span class="s">🗣️ {{ n_talk }} talks</span>
+  <span class="s">👨‍🏫 {{ n_teach }} courses assisted</span>
 </div>
 
-<div class="svc-section">
-  <h2 class="svc-head">🗣️ Talks &amp; Presentations</h2>
-  <hr class="svc-rule" />
-  {% for t in site.data.services.talks %}
-  <div class="svc-card">
-    <span class="svc-date">{{ t.date }}</span>
-    <a class="svc-title" href="{{ base_path }}{{ t.url }}">{{ t.title }}</a>
-    <div class="svc-sub">{{ t.venue }}</div>
+{% for y in years %}
+<div class="tl-group">
+  <div class="tl-year">{{ y }}</div>
+  <div class="tl-items">
+    {% for e in tl %}{% if e.year == y %}
+    <div class="tl-item {{ e.kind }}">
+      <span class="tl-title">
+        <span class="tl-icon">{% case e.kind %}{% when 'review' %}🧐{% when 'journal' %}📖{% when 'workshop' %}🛠️{% when 'talk' %}🗣️{% when 'teaching' %}👨‍🏫{% when 'mentoring' %}🤝{% else %}📌{% endcase %}</span>{{ e.title }}{% if e.url %}<a class="tl-link" href="{% unless e.url contains '://' %}{{ base_path }}{% endunless %}{{ e.url }}"{% if e.url contains '://' %} target="_blank"{% endif %}>[{{ e.link_text | default: 'link' }} ↗]</a>{% endif %}
+      </span>
+      {% if e.detail %}<div class="tl-detail">{{ e.detail }}</div>{% endif %}
+    </div>
+    {% endif %}{% endfor %}
   </div>
-  {% endfor %}
 </div>
-
-<div class="svc-section">
-  <h2 class="svc-head">👨‍🏫 Teaching Assistantships</h2>
-  <hr class="svc-rule" />
-  {% for c in site.data.services.teaching_assistant %}
-  <div class="svc-card ta">
-    <span class="svc-code">{{ c.code }}</span> <span class="svc-sub" style="font-style: normal;">{{ c.term }}</span>
-    <a class="svc-title" href="{{ c.url }}" target="_blank">{{ c.name }}</a>
-    <div class="svc-desc">{{ c.desc }}</div>
-  </div>
-  {% endfor %}
-</div>
+{% endfor %}
