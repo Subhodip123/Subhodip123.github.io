@@ -5,28 +5,31 @@
 # Please correct any that are off, and fill in the commented-out career
 # entries at the bottom with the right dates.
 
-# - date: "Aug 2026"
-#   text: 'Joined <a href="https://global.fujitsu/en-apac/local/technology/research">Fujitsu Research India</a> as a Senior Research Scientist in the Security Sciences Lab.'
+- date: "Aug 2026"
+  text: 'Joined <a href="https://global.fujitsu/en-apac/local/technology/research">Fujitsu Research India</a> as a Senior Research Scientist in the Security Sciences Lab.'
 
-# - date: "Jun 2026"
-#   text: 'Successfully defended my Ph.D. thesis at the <a href="https://ece.iisc.ac.in/">ECE department, IISc Bangalore</a>. 🎓'
+- date: "June 2026"
+  text: 'Joined <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft India Labs</a> as a Ph.D sciences intern.'
 
-- date: "Jan 2026"
+- date: "May 2026"
+  text: 'Submitted Ph.D. thesis at the <a href="https://ece.iisc.ac.in/">ECE department, IISc Bangalore</a>. 🎓'
+
+- date: "March 2026"
   text: 'Our paper <a href="https://arxiv.org/pdf/2604.14876"><i>Regret Tail Characterization of Optimal Bandit Algorithms with Generic Rewards</i></a> is accepted at <b>IEEE ISIT 2026</b>.'
 
-- date: "2026"
+- date: "Jan 2026"
   text: 'Our paper <a href="https://arxiv.org/abs/2510.10510"><i>f-INE: Influence Estimation using Hypothesis Testing</i></a> is accepted at <b>ICLR 2026</b>.'
 
-- date: "2025"
+- date: "May 2025"
   text: 'Our paper <a href="https://openreview.net/pdf?id=2L7KQ4qbHi"><i>Concept Forgetting via Label Annealing</i></a> is accepted at <b>UAI 2025</b>.'
 
-- date: "2025"
+- date: "Feb 2025"
   text: 'Our paper <a href="https://arxiv.org/abs/2309.14054"><i>Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in GANs</i></a> is accepted at <b>TMLR</b>.'
 
-- date: "2025"
+- date: "Dec 2024"
   text: 'Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32682"><i>Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective</i></a> is accepted at <b>AAAI 2025</b>.'
 
-- date: "2024"
+- date: "Oct 2024"
   text: 'Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10754629"><i>FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models</i></a> is accepted at <b>IEEE Transactions on Artificial Intelligence</b>.'
 
 - date: "Oct 2024"
