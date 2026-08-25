@@ -8,24 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-👨‍💼 I am a Senior Research Scientist at [Fujitsu Research](https://global.fujitsu/en-apac/local/technology/research) where I am a member of Security Sciences Lab (SSL). Priviously, I worked as Ph.D sciences intern at [Microsoft India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) broadly working in the area of LLM personalization. I also worked as Ph.D research intern at [Adobe Research, Bangalore](https://research.adobe.com/careers/bangalore/) working on data attribution for vision language models. Prior to this, I had the opportunity to spend a brief period as a Research Associate at [Oneirix Labs](https://www.oneirix.com/), where I was involved in developing algorithms using *applied mathematics* and *computational statistics*, with a particular emphasis on their applications in Medical AI. During my undergrad, I also worked as a research intern at *Laboratory for Electro-Optics Systems (LEOS)* of [Indian Space Research Organization](https://www.isro.gov.in/LEOS.html).
+I am a Senior Research Scientist at [Fujitsu Research](https://global.fujitsu/en-apac/local/technology/research) where I am a member of Security Sciences Lab (SSL). Priviously, I worked as Ph.D sciences intern at [Microsoft India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) broadly working in the area of LLM personalization. I also worked as Ph.D research intern at [Adobe Research, Bangalore](https://research.adobe.com/careers/bangalore/) working on data attribution for vision language models. Prior to this, I had the opportunity to spend a brief period as a Research Associate at [Oneirix Labs](https://www.oneirix.com/), where I was involved in developing algorithms using *applied mathematics* and *computational statistics*, with a particular emphasis on their applications in Medical AI. During my undergrad, I also worked as a research intern at *Laboratory for Electro-Optics Systems (LEOS)* of [Indian Space Research Organization](https://www.isro.gov.in/LEOS.html).
 
-👨‍🎓 I will be completing my Ph.D from the [ECE department, Indian Institute of Science (IISc), Bangalore](https://ece.iisc.ac.in/), where I was a part of Representation Learning Lab, advised by [Prof. Prathosh A.P](https://sites.google.com/view/prathosh/home). I am very fortunate to be mentored by some brilliant researchers ([Dr. Ananda Theertha Suresh](http://theertha.info/), [Prof. Sai Praneeth](https://spkreddy.org/), [Prof. Shubhada Agrawal](https://sites.google.com/view/shubhada-agrawal/home), [Prof. Debabrota Basu](https://debabrota-basu.github.io/)) during current years of my Ph.D research. Before commencing my doctoral studies, I have completed my post-graduate studies in Statistics from [Indian Statistical Institute (ISI), Chennai](https://www.isichennai.res.in/) under the supervision of [Prof. Sudheesh Kumar K.](https://www.isichennai.res.in/~skkattu) and undergraduate studies in ECE from [Indian Institute of Engineering Science and Technology (IIEST),Shibpur](https://www.iiests.ac.in/).
+I will be completing my Ph.D from the [ECE department, Indian Institute of Science (IISc), Bangalore](https://ece.iisc.ac.in/), where I was a part of Representation Learning Lab, advised by [Prof. Prathosh A.P](https://sites.google.com/view/prathosh/home). I am very fortunate to collaborate with some brilliant researchers ([Dr. Ananda Theertha Suresh](http://theertha.info/), [Prof. Sai Praneeth](https://spkreddy.org/), [Prof. Shubhada Agrawal](https://sites.google.com/view/shubhada-agrawal/home), [Prof. Debabrota Basu](https://debabrota-basu.github.io/)) during the years of my doctoral studies. Before this, I have completed my post-graduate studies in Statistics from [Indian Statistical Institute (ISI), Chennai](https://www.isichennai.res.in/) under the supervision of [Prof. Sudheesh Kumar K.](https://www.isichennai.res.in/~skkattu) and undergraduate studies in ECE from [Indian Institute of Engineering Science and Technology (IIEST),Shibpur](https://www.iiests.ac.in/).
 
 
-<!-- 📢 ***I will be completing my Ph.D degree this year and currently seeking full-time research positions. Here is my [CV](/files/CV_subhodip_updated.pdf). Feel free to reach out if you have any relevant open positions!***   -->
+### 📚 Topics of Interest
 
-## 🔍 Research Interests
+- 🔐 **Privacy**: Differential Privacy, Machine Unlearning  
+- 🎲 **Uncertainty**: Conformal Prediction, Calibration  
+- 📘 **Others**: Statistics, Learning Theory, Information Theory 
+
+
+## 🔍 Brief Research Summary
 
 🧠 My broader research interest lies in **Trustworthy Machine Learning**. In particular, my current thesis focuses on the design and analysis of *privacy- and uncertainty-aware learning algorithms*. I am curious about understanding the contribution of individual data points in the learning process and developing techniques to *estimate* and *unlearn* the effect of specific data. I believe [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy) offers a powerful theoretical lens into this question, and [Influence Estimation (Data Attribution)](https://arxiv.org/pdf/2510.10510), [Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/32682) provide practical tools to achieve it.
 
 💡 I also work on topics related to [Diffusion Models](https://arxiv.org/pdf/2510.04058?) and [Fragility issues in Bandit Algorithms](https://arxiv.org/pdf/2604.14876). Additionally, I am very interested in ***Statistical Optimal Transport***, and ***Conformal Prediction*** for statistical/deep learning problems.
-
-### 📚 Topics of Interest
-
-- 🔐 **Privacy**: Machine Unlearning, Differential Privacy  
-- 🎲 **Uncertainty**: Conformal Prediction, Calibration  
-- 📘 **Others**: Statistics, Learning Theory, Information Theory  
 
 ---
 
