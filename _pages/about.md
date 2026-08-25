@@ -39,6 +39,6 @@ My broader research interest lies in **Trustworthy Machine Learning**. In partic
 ---
 
 <div class="notice--info" markdown="1">
-## 📫 Get in Touch
+### 📫 Get in Touch
 Feel free to reach out to me via **email** if your interests align or you'd like to collaborate — I'm always happy to discuss research!
 </div>
