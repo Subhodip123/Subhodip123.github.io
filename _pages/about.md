@@ -23,7 +23,7 @@ Recently, I have completed my Ph.D from the [ECE department, Indian Institute of
 <details>
 <summary style="cursor: pointer; color: SteelBlue; font-size: 0.9em; font-weight: bold; margin-bottom: 0.5em;">📚 Brief Research Summary <span style="font-size: 0.8em; font-weight: normal; color: #888;">(click to expand)</span></summary>
 
-<div class="abstract-text" style="font-size: 1em; color: Black; text-align: justify; margin-top: 0.5em;" markdown="1">
+<div class="abstract-text" style="font-size: 0.9em; color: Black; text-align: justify; margin-top: 0.5em;" markdown="1">
 
 My broader research interest lies in **Trustworthy Machine Learning**. In particular, my broad research focuses on the design and analysis of *privacy- and uncertainty-aware learning algorithms*. I am curious about understanding the contribution of individual data points in the learning process and developing techniques to *estimate* and *unlearn* the effect of specific data. I believe [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy) offers a powerful theoretical lens into this question, and [Influence Estimation (Data Attribution)](https://arxiv.org/pdf/2510.10510), [Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/32682) provide practical tools to achieve it. I also work on topics related to [Diffusion Models](https://arxiv.org/pdf/2510.04058?) and [Fragility issues in Bandit Algorithms](https://arxiv.org/pdf/2604.14876). Additionally, I am very interested in ***Statistical Optimal Transport*** for statistical/deep learning problems.
 
