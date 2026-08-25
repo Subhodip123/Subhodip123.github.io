@@ -33,7 +33,7 @@
   text: 'Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32682"><i>Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective</i></a> is accepted at <b>AAAI 2025</b>.'
 
 - date: "Oct 2024"
-  text: 'Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10754629"><i>FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models</i></a> is accepted at <b>IEEE Transactions on Artificial Intelligence (TAI)</b>.'
+  text: 'Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10754629"><i>FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models</i></a> is accepted at <b>IEEE Transactions on Artificial Intelligence (TAI), 2025</b>.'
 
 - date: "Oct 2024"
   text: 'Our paper <a href="https://openreview.net/pdf?id=B2wDjiED9V"><i>Variational Diffusion Unlearning</i></a> is accepted at the <b>NeurIPS 2024 SafeGenAI</b> workshop.'
