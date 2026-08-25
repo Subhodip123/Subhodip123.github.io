@@ -21,13 +21,19 @@
   text: '🎉 Our paper <a href="https://arxiv.org/pdf/2604.14876"><i>Regret Tail Characterization of Optimal Bandit Algorithms with Generic Rewards</i></a> is accepted at <b>IEEE ISIT 2026</b>.'
 
 - date: "Feb 2026"
-  text: '🏅 Awarded as a top presenter at ACM ARCS 2026 @ IIT, Hyderabad.'
+  text: '🏅 Awarded as a top presenter at <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2026</a> @ IIT, Hyderabad.'
 
 - date: "Feb 2026"
   text: '🎉 Our paper <a href="https://arxiv.org/abs/2510.04058"><i>Unlearning in Diffusion models under Data Constraints: A Variational Inference Approach</i></a> is accepted at <b>TMLR 2026</b>.'
 
 - date: "Jan 2026"
   text: '🎉 Our paper <a href="https://arxiv.org/abs/2510.10510"><i>f-INE: A Hypothesis Testing Framework for Estimating Influence under Training Randomness</i></a> is accepted at <b>ICLR 2026</b>.'
+
+- date: "Aug 2025"
+  text: '✈️ Attending <a href="https://www.icts.res.in/program/DSPOM">Probabilistic and Optimization Methods workshop @ ICTS, Bangalore.</a>'
+
+- date: "Nov 2025"
+  text: '🗣️ Invited to present PBU paper at <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2025</a> @ IIT, Hyderabad.'
 
 - date: "May 2025"
   text: '🏢 Joined Adobe Research India as a Ph.D. intern.'
