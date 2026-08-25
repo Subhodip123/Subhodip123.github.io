@@ -12,19 +12,17 @@ I am a Senior Research Scientist at [Fujitsu Research India](https://global.fuji
 
 I will be completing my Ph.D from the [ECE department, Indian Institute of Science (IISc), Bangalore](https://ece.iisc.ac.in/), where I was a part of Representation Learning Lab, advised by [Prof. Prathosh A.P](https://sites.google.com/view/prathosh/home). I am very fortunate to collaborate with some brilliant researchers ([Dr. Ananda Theertha Suresh](http://theertha.info/), [Prof. Sai Praneeth](https://spkreddy.org/), [Prof. Shubhada Agrawal](https://sites.google.com/view/shubhada-agrawal/home), [Prof. Debabrota Basu](https://debabrota-basu.github.io/)) during the years of my doctoral studies. Before this, I have completed my post-graduate studies in Statistics from [Indian Statistical Institute (ISI), Chennai](https://www.isichennai.res.in/) under the supervision of [Prof. Sudheesh Kumar K.](https://www.isichennai.res.in/~skkattu) and undergraduate studies in ECE from [Indian Institute of Engineering Science and Technology (IIEST),Shibpur](https://www.iiests.ac.in/).
 
-
-### 📚 Topics of Interest
+## 🔍 Research Interests
 
 - 🔐 **Privacy**: Differential Privacy, Machine Unlearning  
-- 🎲 **Uncertainty**: Conformal Prediction, Calibration  
-- 📘 **Others**: Statistics, Learning Theory, Information Theory 
+- 🎲 **Uncertainty**: Conformal Prediction, Calibration
+- 📘 **Others**: Statistics, Learning Theory, Information Theory.
 
+### 📚 Brief Research Summary
 
-## 🔍 Brief Research Summary
+My broader research interest lies in **Trustworthy Machine Learning**. In particular, my current thesis focuses on the design and analysis of *privacy- and uncertainty-aware learning algorithms*. I am curious about understanding the contribution of individual data points in the learning process and developing techniques to *estimate* and *unlearn* the effect of specific data. I believe [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy) offers a powerful theoretical lens into this question, and [Influence Estimation (Data Attribution)](https://arxiv.org/pdf/2510.10510), [Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/32682) provide practical tools to achieve it.
 
-🧠 My broader research interest lies in **Trustworthy Machine Learning**. In particular, my current thesis focuses on the design and analysis of *privacy- and uncertainty-aware learning algorithms*. I am curious about understanding the contribution of individual data points in the learning process and developing techniques to *estimate* and *unlearn* the effect of specific data. I believe [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy) offers a powerful theoretical lens into this question, and [Influence Estimation (Data Attribution)](https://arxiv.org/pdf/2510.10510), [Machine Unlearning](https://ojs.aaai.org/index.php/AAAI/article/view/32682) provide practical tools to achieve it.
-
-💡 I also work on topics related to [Diffusion Models](https://arxiv.org/pdf/2510.04058?) and [Fragility issues in Bandit Algorithms](https://arxiv.org/pdf/2604.14876). Additionally, I am very interested in ***Statistical Optimal Transport***, and ***Conformal Prediction*** for statistical/deep learning problems.
+I also work on topics related to [Diffusion Models](https://arxiv.org/pdf/2510.04058?) and [Fragility issues in Bandit Algorithms](https://arxiv.org/pdf/2604.14876). Additionally, I am very interested in ***Statistical Optimal Transport***, and ***Conformal Prediction*** for statistical/deep learning problems.
 
 ---
 
