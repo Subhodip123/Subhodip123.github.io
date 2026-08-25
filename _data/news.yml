@@ -6,7 +6,7 @@
 # entries at the bottom with the right dates.
 
 - date: "Aug 2026"
-  text: 'Joined <a href="https://global.fujitsu/en-apac/local/technology/research">Fujitsu Research India</a> as a Senior Research Scientist in the Security Sciences Lab.'
+  text: 'Joined <a href="https://global.fujitsu/en-apac/local/technology/research">Fujitsu Research India</a> as a Senior Research Scientist.'
 
 - date: "June 2026"
   text: 'Joined <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft India Labs</a> as a Ph.D sciences intern.'
@@ -27,13 +27,13 @@
   text: 'Our paper <a href="https://proceedings.mlr.press/v286/panda25a.html"><i>Concept Forgetting via Label Annealing</i></a> is accepted at <b>UAI 2025</b>.'
 
 - date: "Feb 2025"
-  text: 'Our paper <a href="https://arxiv.org/abs/2309.14054"><i>Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in GANs</i></a> is accepted at <b>TMLR</b>.'
+  text: 'Our paper <a href="https://arxiv.org/abs/2309.14054"><i>Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in GANs</i></a> is accepted at <b>TMLR, 2025</b>.'
 
 - date: "Dec 2024"
   text: 'Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32682"><i>Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective</i></a> is accepted at <b>AAAI 2025</b>.'
 
 - date: "Oct 2024"
-  text: 'Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10754629"><i>FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models</i></a> is accepted at <b>IEEE Transactions on Artificial Intelligence</b>.'
+  text: 'Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10754629"><i>FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models</i></a> is accepted at <b>IEEE Transactions on Artificial Intelligence (TAI)</b>.'
 
 - date: "Oct 2024"
   text: 'Our paper <a href="https://openreview.net/pdf?id=B2wDjiED9V"><i>Variational Diffusion Unlearning</i></a> is accepted at the <b>NeurIPS 2024 SafeGenAI</b> workshop.'
