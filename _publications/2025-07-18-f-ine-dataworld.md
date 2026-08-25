@@ -1,5 +1,5 @@
 ---
-title: "📝 f-INE: Influence Estimation using Hypothesis Testing (Workshop Version)"
+title: "📝 f-INE: Influence Estimation using Hypothesis Testing"
 collection: publications
 permalink: /publication/2025-07-18-f-ine-dataworld
 excerpt: '🎯 A hypothesis-testing definition of influence that explicitly captures training-time randomness, enabling consistent estimation of the influence of training data in a single training run.'
