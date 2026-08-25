@@ -6,34 +6,58 @@
 # entries at the bottom with the right dates.
 
 - date: "Aug 2026"
-  text: 'Joined <a href="https://global.fujitsu/en-apac/local/technology/research">Fujitsu Research India</a> as a Senior Research Scientist.'
+  text: '🏢 Joined <a href="https://global.fujitsu/en-apac/local/technology/research">Fujitsu Research India</a> as a Senior Research Scientist.'
 
 - date: "June 2026"
-  text: 'Joined <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft India Labs</a> as a Ph.D sciences intern.'
+  text: '🏢 Joined <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft India Labs</a> as a Ph.D sciences intern.'
 
 - date: "May 2026"
-  text: 'Submitted Ph.D. thesis at the <a href="https://ece.iisc.ac.in/">ECE department, IISc Bangalore</a>. 🎓'
+  text: '🎓 Submitted Ph.D. thesis at the <a href="https://ece.iisc.ac.in/">ECE department, IISc Bangalore</a>.'
+
+- date: "April 2026"
+  text: '🗣️ Attending and Presenting f-INE @ ICLR 2026. <a href="https://iclr.cc/Conferences/2026">https://iclr.cc/Conferences/2026</a> at Rio de Janeiro, Brazil.'
 
 - date: "March 2026"
-  text: 'Our paper <a href="https://arxiv.org/pdf/2604.14876"><i>Regret Tail Characterization of Optimal Bandit Algorithms with Generic Rewards</i></a> is accepted at <b>IEEE ISIT 2026</b>.'
+  text: '🎉 Our paper <a href="https://arxiv.org/pdf/2604.14876"><i>Regret Tail Characterization of Optimal Bandit Algorithms with Generic Rewards</i></a> is accepted at <b>IEEE ISIT 2026</b>.'
 
 - date: "Feb 2026"
-  text: 'Our paper <a href="https://arxiv.org/abs/2510.04058"><i>Unlearning in Diffusion models under Data Constraints: A Variational Inference Approach</i></a> is accepted at <b>TMLR 2026</b>.'
+  text: '🏅 Awarded as a top presenter at ACM ARCS 2026 @ IIT, Hyderabad'
+
+- date: "Feb 2026"
+  text: '🎉 Our paper <a href="https://arxiv.org/abs/2510.04058"><i>Unlearning in Diffusion models under Data Constraints: A Variational Inference Approach</i></a> is accepted at <b>TMLR 2026</b>.'
 
 - date: "Jan 2026"
-  text: 'Our paper <a href="https://arxiv.org/abs/2510.10510"><i>f-INE: A Hypothesis Testing Framework for Estimating Influence under Training Randomness</i></a> is accepted at <b>ICLR 2026</b>.'
+  text: '🎉 Our paper <a href="https://arxiv.org/abs/2510.10510"><i>f-INE: A Hypothesis Testing Framework for Estimating Influence under Training Randomness</i></a> is accepted at <b>ICLR 2026</b>.'
 
 - date: "May 2025"
-  text: 'Our paper <a href="https://proceedings.mlr.press/v286/panda25a.html"><i>Concept Forgetting via Label Annealing</i></a> is accepted at <b>UAI 2025</b>.'
+  text: '🏢 Joined Adobe Research India as a Ph.D. intern.'
+
+- date: "May 2025"
+  text: '🎉 Our paper <a href="https://proceedings.mlr.press/v286/panda25a.html"><i>Concept Forgetting via Label Annealing</i></a> is accepted at <b>UAI 2025</b>.'
+
+- date: "March 2025"
+  text: '🗣️ Attending and Presenting PBU @ <a href="https://aaai.org/Conferences/AAAI-25/">AAAI 2025</a> at Philadelphia, USA.'
 
 - date: "Feb 2025"
-  text: 'Our paper <a href="https://arxiv.org/abs/2309.14054"><i>Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in GANs</i></a> is accepted at <b>TMLR, 2025</b>.'
+  text: '🎉 Our paper <a href="https://arxiv.org/abs/2309.14054"><i>Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in GANs</i></a> is accepted at <b>TMLR, 2025</b>.'
+
+- date: "Jan 2025"
+  text: '🏅 Selected for Google Research Symposium 2025. <a href="https://research.google/symposium/">https://research.google/symposium/</a>'
 
 - date: "Dec 2024"
-  text: 'Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32682"><i>Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective</i></a> is accepted at <b>AAAI 2025</b>.'
+  text: '🎉 Our paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32682"><i>Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective</i></a> is accepted at <b>AAAI 2025</b>.'
 
 - date: "Oct 2024"
-  text: 'Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10754629"><i>FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models</i></a> is accepted at <b>IEEE Transactions on Artificial Intelligence (TAI), 2025</b>.'
+  text: '🎉 Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10754629"><i>FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models</i></a> is accepted at <b>IEEE Transactions on Artificial Intelligence (TAI), 2025</b>.'
 
 - date: "Oct 2024"
-  text: 'Our paper <a href="https://openreview.net/pdf?id=B2wDjiED9V"><i>Variational Diffusion Unlearning</i></a> is accepted at the <b>NeurIPS 2024 SafeGenAI</b> workshop.'
+  text: '🎉 Our paper <a href="https://openreview.net/pdf?id=B2wDjiED9V"><i>Variational Diffusion Unlearning</i></a> is accepted at the <b>NeurIPS 2024 SafeGenAI</b> workshop.'
+
+- date: "Mar 2024"
+  text: '📄 ArXiv preprint <a href="https://arxiv.org/pdf/2403.16246"><i>Partially Blinded Unlearning</i></a> is released.'
+
+- date: "Dec 2023"
+  text: '📄 Arxiv preprint <a href="https://arxiv.org/pdf/2312.14895"><i>FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models</i></a> is released.'
+
+- date: "Jan 2022"
+  text: '🎓 Joined IISc Bangalore as a Ph.D. student in the <a href="https://ece.iisc.ac.in/">ECE department</a>.'
