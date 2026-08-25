@@ -38,7 +38,6 @@ My broader research interest lies in **Trustworthy Machine Learning**. In partic
 
 ---
 
-<div class="notice--info" style="max-width: 28em;" markdown="1">
-### 📫 Get in Touch
-Feel free to reach out to me via **email** if your interests align or you'd like to collaborate — I'm always happy to discuss research!
+<div class="notice--info" style="padding: 0.7em 1em; margin: 1.5em 0 !important;" markdown="1">
+**📫 Get in Touch** — Feel free to reach out to me via **email** if your interests align or you'd like to collaborate — I'm always happy to discuss research!
 </div>
