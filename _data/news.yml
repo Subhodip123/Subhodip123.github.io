@@ -29,11 +29,11 @@
 - date: "Jan 2026"
   text: '🎉 Our paper <a href="https://arxiv.org/abs/2510.10510"><i>f-INE: A Hypothesis Testing Framework for Estimating Influence under Training Randomness</i></a> is accepted at <b>ICLR 2026</b>.'
 
-- date: "Aug 2025"
-  text: '✈️ Attending <a href="https://www.icts.res.in/program/DSPOM">Probabilistic and Optimization Methods workshop @ ICTS, Bangalore.</a>'
-
 - date: "Nov 2025"
   text: '🗣️ Invited to present PBU paper at <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2025</a> @ IIT, Hyderabad.'
+
+- date: "Aug 2025"
+  text: '✈️ Attending <a href="https://www.icts.res.in/program/DSPOM">Probabilistic and Optimization Methods workshop @ ICTS, Bangalore.</a>'
 
 - date: "May 2025"
   text: '🏢 Joined Adobe Research India as a Ph.D. intern.'
