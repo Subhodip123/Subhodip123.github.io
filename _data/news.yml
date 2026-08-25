@@ -15,7 +15,7 @@
   text: '🎓 Submitted Ph.D. thesis at the <a href="https://ece.iisc.ac.in/">ECE department, IISc Bangalore</a>.'
 
 - date: "April 2026"
-  text: '🗣️ Attending and Presenting f-INE @ <a href="https://iclr.cc/Conferences/2026">ICLR 2026</a> at Rio de Janeiro, Brazil.'
+  text: '✈️ Attending and Presenting f-INE @ <a href="https://iclr.cc/Conferences/2026">ICLR 2026</a> at Rio de Janeiro, Brazil.'
 
 - date: "March 2026"
   text: '🎉 Our paper <a href="https://arxiv.org/pdf/2604.14876"><i>Regret Tail Characterization of Optimal Bandit Algorithms with Generic Rewards</i></a> is accepted at <b>IEEE ISIT 2026</b>.'
@@ -33,7 +33,10 @@
   text: '🗣️ Invited to present PBU paper at <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2025</a> @ IIT, Hyderabad.'
 
 - date: "Aug 2025"
-  text: '✈️ Attending <a href="https://www.icts.res.in/program/DSPOM">Probabilistic and Optimization Methods workshop @ ICTS, Bangalore.</a>'
+  text: '🎟️ Attending <a href="https://www.icts.res.in/program/DSPOM">Probabilistic and Optimization Methods workshop @ ICTS, Bangalore.</a>'
+
+- date: "July 2025"
+  text: '✈️ Attending and Presenting our paper Concept Forgetting paper @ <a href="https://www.auai.org/uai2025/"><i>UAI 2025</i></a> at Rio de Janeiro, Brazil.'
 
 - date: "May 2025"
   text: '🏢 Joined Adobe Research India as a Ph.D. intern.'
@@ -42,7 +45,7 @@
   text: '🎉 Our paper <a href="https://proceedings.mlr.press/v286/panda25a.html"><i>Concept Forgetting via Label Annealing</i></a> is accepted at <b>UAI 2025</b>.'
 
 - date: "March 2025"
-  text: '🗣️ Attending and Presenting PBU @ <a href="https://aaai.org/Conferences/AAAI-25/">AAAI 2025</a> at Philadelphia, USA.'
+  text: '✈️ Attending and Presenting PBU @ <a href="https://aaai.org/Conferences/AAAI-25/">AAAI 2025</a> at Philadelphia, USA.'
 
 - date: "Feb 2025"
   text: '🎉 Our paper <a href="https://arxiv.org/abs/2309.14054"><i>Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in GANs</i></a> is accepted at <b>TMLR, 2025</b>.'
