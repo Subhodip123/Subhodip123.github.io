@@ -15,9 +15,9 @@ Recently, I have completed my Ph.D from the [ECE department, Indian Institute of
 ## 🔍 Research Interests
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(215px, 1fr)); gap: 0.9em; margin: 1em 0 1.5em 0;">
-<div style="background-color: #eef7fa; border-left: 4px solid #52adc8; border-radius: 6px; padding: 0.8em 1em;"><b style="color: #39798c; font-size: 1.02em;">🔐 Privacy</b><br><span style="font-size: 0.93em;">Differential Privacy, Machine Unlearning</span></div>
+<div style="background-color: #fdefef; border-left: 4px solid #ee5f5b; border-radius: 6px; padding: 0.8em 1em;"><b style="color: #a74240; font-size: 1.02em;">🔐 Privacy</b><br><span style="font-size: 0.93em;">Differential Privacy, Machine Unlearning</span></div>
 <div style="background-color: #eff9ef; border-left: 4px solid #62c462; border-radius: 6px; padding: 0.8em 1em;"><b style="color: #458945; font-size: 1.02em;">🎲 Uncertainty</b><br><span style="font-size: 0.93em;">Conformal Prediction, Calibration</span></div>
-<div style="background-color: #fef4e6; border-left: 4px solid #f89406; border-radius: 6px; padding: 0.8em 1em;"><b style="color: #ae6804; font-size: 1.02em;">📘 Others</b><br><span style="font-size: 0.93em;">Statistics, Learning Theory, Information Theory</span></div>
+<div style="background-color: #ededf7; border-left: 4px solid #00008b; border-radius: 6px; padding: 0.8em 1em;"><b style="color: #00008b; font-size: 1.02em;">📘 Others</b><br><span style="font-size: 0.93em;">Statistics, Learning Theory, Information Theory</span></div>
 </div>
 
 <details>
