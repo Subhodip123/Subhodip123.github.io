@@ -2,7 +2,7 @@
 title: "🗣️ Talks and Presentations"
 collection: talks
 type: "Reviewer"
-permalink: /talks/2023-review_works
+permalink: /talks/presentations
 venue: #"London School of Testing"
 date: 2023-02-01
 location: "Bengaluru, India"

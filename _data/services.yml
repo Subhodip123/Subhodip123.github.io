@@ -1,0 +1,33 @@
+# Content for the "Professional Services" page (_pages/talks.html).
+# Edit here — the page renders from this file.
+
+# --- Peer review: newest year first -----------------------------------------
+reviewing:
+  - year: 2024
+    venues: ["ICLR", "ICML", "AAAI"]
+  - year: 2023
+    venues: ["NeurIPS"]
+
+# --- Invited talks & presentations: newest first ----------------------------
+talks:
+  - date: "02 Aug 2024"
+    title: "Annual Review Presentation on Partially Blinded Unlearning"
+    url: "/files/annual_review_24-1.pdf"
+    venue: "Indian Institute of Science (IISc), Bangalore"
+  - date: "22 Jan 2024"
+    title: "Comprehensive Exam Presentation"
+    url: "/files/Compre_Presentation.pdf"
+    venue: "Indian Institute of Science (IISc), Bangalore"
+
+# --- Teaching assistantships ------------------------------------------------
+teaching_assistant:
+  - code: "E2-233"
+    name: "Pattern Recognition and Neural Networks"
+    desc: "An introductory course on machine learning and deep learning."
+    url: "https://sites.google.com/view/prathosh/prnn_2024"
+    term: "2024"
+  - code: "E2-333"
+    name: "Advanced Deep Representation Learning"
+    desc: "An advanced course in representation learning, broadly covering recent research in generative modeling, continual learning, and meta learning."
+    url: "https://sites.google.com/view/prathosh/adrl-2023-aug"
+    term: "Aug 2023"

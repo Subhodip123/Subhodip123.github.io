@@ -5,12 +5,69 @@ permalink: /talks/
 author_profile: true
 ---
 
+{% include base_path %}
+
+<style>
+.svc-section { margin-bottom: 2.2em; }
+.svc-head { color: DarkRed !important; margin: 1.4em 0 0.2em 0 !important; font-size: 1.4em !important; }
+.svc-rule { height: 1px; border: none; background-color: #333; margin: 0 0 1em 0; }
+.svc-review-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45em; margin-bottom: 0.7em; }
+.svc-year { font-weight: bold; color: SteelBlue; min-width: 3.2em; }
+.svc-venue { display: inline-block; padding: 0.22em 0.75em; border: 1px solid #52adc8;
+  border-radius: 14px; background-color: #eef7fa; color: #39798c;
+  font-size: 0.85em; font-weight: bold; }
+.svc-card { border: 1px solid #e2e2e2; border-left: 4px solid #52adc8; border-radius: 6px;
+  padding: 0.75em 1em; margin-bottom: 0.7em; background-color: #fcfcfc; }
+.svc-card.ta { border-left-color: #62c462; }
+.svc-date { display: inline-block; padding: 0.12em 0.6em; border-radius: 3px;
+  background-color: #eef7fa; color: #39798c; font-size: 0.78em; font-weight: bold; }
+.svc-code { display: inline-block; padding: 0.12em 0.6em; border-radius: 3px;
+  background-color: #eff9ef; color: #458945; font-size: 0.78em; font-weight: bold; }
+.svc-title { font-weight: bold; font-size: 1em; display: block; margin-top: 0.35em; }
+.svc-sub { font-size: 0.85em; color: #777; font-style: italic; margin-top: 0.15em; }
+.svc-desc { font-size: 0.87em; color: #555; line-height: 1.5; margin-top: 0.3em; }
+.svc-count { font-size: 0.85em; color: #666; margin-bottom: 0.9em; }
+</style>
+
 {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+<p><a href="/talkmap.html">📍 See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+{% assign n_venues = 0 %}
+{% for r in site.data.services.reviewing %}{% assign n_venues = n_venues | plus: r.venues.size %}{% endfor %}
+
+<div class="svc-section">
+  <h2 class="svc-head">🧐 Peer Review</h2>
+  <hr class="svc-rule" />
+  <p class="svc-count">Reviewer for <b>{{ n_venues }}</b> conference cycles across machine learning venues.</p>
+  {% for r in site.data.services.reviewing %}
+  <div class="svc-review-row">
+    <span class="svc-year">{{ r.year }}</span>
+    {% for v in r.venues %}<span class="svc-venue">{{ v }}</span>{% endfor %}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="svc-section">
+  <h2 class="svc-head">🗣️ Talks &amp; Presentations</h2>
+  <hr class="svc-rule" />
+  {% for t in site.data.services.talks %}
+  <div class="svc-card">
+    <span class="svc-date">{{ t.date }}</span>
+    <a class="svc-title" href="{{ base_path }}{{ t.url }}">{{ t.title }}</a>
+    <div class="svc-sub">{{ t.venue }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="svc-section">
+  <h2 class="svc-head">👨‍🏫 Teaching Assistantships</h2>
+  <hr class="svc-rule" />
+  {% for c in site.data.services.teaching_assistant %}
+  <div class="svc-card ta">
+    <span class="svc-code">{{ c.code }}</span> <span class="svc-sub" style="font-style: normal;">{{ c.term }}</span>
+    <a class="svc-title" href="{{ c.url }}" target="_blank">{{ c.name }}</a>
+    <div class="svc-desc">{{ c.desc }}</div>
+  </div>
+  {% endfor %}
+</div>
