@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-analysis_1
 venue: "ISI & IISc"
+category: 'Mathematical Foundations'
+self_initiated: false
+summary: 'Construction of the reals, cardinality, metric topology, compactness and connectedness, sequences and series, limits and continuity.'
 date: 2022-01-01
 location: "Bengaluru, India"
 ---

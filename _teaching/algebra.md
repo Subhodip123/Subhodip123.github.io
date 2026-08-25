@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-algebra
 venue: "ISI & IISc"
+category: 'Mathematical Foundations'
+self_initiated: false
+summary: 'Groups, subgroups and cosets, properties of cosets, and morphisms.'
 date: 2022-01-02
 location: "Bengaluru, India"
 ---

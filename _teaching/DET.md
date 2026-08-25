@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-DET
 venue: "IISc"
+category: 'Statistics & Information Theory'
+self_initiated: false
+summary: 'Binary and Bayesian hypothesis testing, Neyman-Pearson and minimax tests, GLRT, sequential testing, and MAP/MMSE/LLSE estimation.'
 date: 2022-05-01
 location: "Bengaluru, India"
 ---

@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-analysis_2
 venue: "IISc"
+category: 'Mathematical Foundations'
+self_initiated: false
+summary: 'Outer and Lebesgue measure, measurable functions, integration, monotone and dominated convergence, and product measures.'
 date: 2023-05-01
 location: "Bengaluru, India"
 ---

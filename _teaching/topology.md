@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-topology
 venue: "ISI & IISc"
+category: 'Mathematical Foundations'
+self_initiated: false
+summary: 'Topological and metric spaces, bases, subspace and order topology, continuity, homeomorphisms, and connectedness.'
 date: 2022-01-01
 location: "Bengaluru, India"
 ---

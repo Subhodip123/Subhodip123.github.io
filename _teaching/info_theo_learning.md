@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2024-info_theo_learning
 venue: "IISc"
+category: 'Statistics & Information Theory'
+self_initiated: true
+summary: 'Entropy and conditional entropy, Han''s inequality and Shearer''s lemma, divergence and Fisher information, and variational characterizations.'
 date: 2024-12-01
 location: "Bengaluru, India"
 ---

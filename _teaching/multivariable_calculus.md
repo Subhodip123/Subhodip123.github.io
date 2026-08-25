@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-multivariable_calculus
 venue: "ISI & IISc"
+category: 'Mathematical Foundations'
+self_initiated: false
+summary: 'Derivatives and differentiability, inverse and implicit function theorems, Taylor''s theorem, extrema, manifolds, and integration.'
 date: 2022-01-01
 location: "Bengaluru, India"
 ---

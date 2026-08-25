@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-linear_algebra
 venue: "ISI & IISc"
+category: 'Mathematical Foundations'
+self_initiated: false
+summary: 'Fields and vector spaces, linear systems and RREF, span and bases, and linear transformations.'
 date: 2022-01-01
 location: "Bengaluru, India"
 ---

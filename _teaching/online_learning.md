@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2022-online_learning
 venue: "IISc"
+category: 'Machine Learning Theory'
+self_initiated: false
+summary: 'Prediction with experts, halving and weighted majority, FTL and FTRL, online mirror descent, Fenchel duality, and stochastic bandits.'
 date: 2022-12-01
 location: "Bengaluru, India"
 ---

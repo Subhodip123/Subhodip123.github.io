@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2024-concentration_ineq
 venue: "IISc"
+category: 'Statistics & Information Theory'
+self_initiated: false
+summary: 'Cramer-Chernoff method, Hoeffding-Bennett-Bernstein bounds, Efron-Stein and the entropy method, log-Sobolev inequalities, and isoperimetry.'
 date: 2024-05-01
 location: "Bengaluru, India"
 ---

@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2024-conformal_prediction
 venue: "IISc"
+category: 'Machine Learning Theory'
+self_initiated: true
+summary: 'Confidence and conformal predictors, conformalized ridge and nearest-neighbour regression, efficiency criteria, and conformal test martingales.'
 date: 2024-12-01
 location: "Bengaluru, India"
 ---

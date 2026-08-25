@@ -1,12 +1,77 @@
 ---
 layout: archive
-title: "Teaching and Courses"
+title: "Academic Courses"
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<style>
+.crs-intro { font-size: 0.95em; color: #444; line-height: 1.6; margin-bottom: 1.2em; }
+.crs-stats { margin-bottom: 1.8em; font-size: 0.9em; color: #555; }
+.crs-stats .s { display: inline-block; padding: 0.15em 0.7em; margin: 0 0.3em 0.35em 0;
+  border: 1px solid #dcdcdc; border-radius: 12px; background-color: #fafafa; }
+.crs-head { color: DarkRed !important; margin: 1.5em 0 0.2em 0 !important; font-size: 1.35em !important; }
+.crs-rule { height: 1px; border: none; background-color: #333; margin: 0 0 1.1em 0; }
+.crs-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 0.9em; }
+.crs-card { border: 1px solid #e2e2e2; border-left: 4px solid #52adc8; border-radius: 6px;
+  padding: 0.85em 1em; background-color: #fcfcfc;
+  transition: box-shadow 0.2s ease, transform 0.2s ease; }
+.crs-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,0.1); transform: translateY(-2px); }
+.crs-card.selfinit { border-left-color: #62c462; }
+.crs-name { font-weight: bold; font-size: 1.02em; line-height: 1.35; display: block; }
+.crs-badges { margin: 0.45em 0 0.1em 0; }
+.crs-badge { display: inline-block; padding: 0.1em 0.55em; margin: 0 0.3em 0.3em 0;
+  border: 1px solid #cfcfcf; border-radius: 3px; background-color: #f4f4f4;
+  color: #555; font-size: 0.75em; font-weight: bold; }
+.crs-badge.inst { background-color: #eef7fa; border-color: #52adc8; color: #39798c; }
+.crs-badge.self { background-color: #eff9ef; border-color: #62c462; color: #458945; }
+.crs-badge.wip { background-color: #fef4e6; border-color: #f89406; color: #ae6804; }
+.crs-summary { font-size: 0.85em; color: #666; line-height: 1.5; margin-top: 0.35em; }
+</style>
+
+<p class="crs-intro">
+A collection of lecture notes I have compiled while studying at <b>ISI Chennai</b> and <b>IISc Bangalore</b>,
+together with several <b>self-initiated reading courses</b> designed to deepen my understanding of topics
+central to my research. Each course links to a folder of handwritten notes — I hope they are useful to others
+working through the same material.
+</p>
+
+{% assign all = site.teaching %}
+{% assign n_lectures = 0 %}
+{% for c in all %}{% assign k = c.content | split: 'Lec-' | size | minus: 1 %}{% assign n_lectures = n_lectures | plus: k %}{% endfor %}
+{% assign n_self = all | where: 'self_initiated', true | size %}
+
+<div class="crs-stats">
+  <span class="s">📚 {{ all | size }} courses</span>
+  <span class="s">📝 {{ n_lectures }} lectures</span>
+  <span class="s">🔬 {{ n_self }} self-initiated</span>
+</div>
+
+{% assign categories = "Machine Learning Theory|Statistics &amp; Information Theory|Mathematical Foundations" | split: "|" %}
+
+{% for cat in categories %}
+{% assign cat_plain = cat | replace: '&amp;', '&' %}
+{% assign courses = all | where: 'category', cat_plain | sort: 'date' | reverse %}
+{% if courses.size > 0 %}
+<h2 class="crs-head">{{ cat }}</h2>
+<hr class="crs-rule" />
+<div class="crs-grid">
+  {% for c in courses %}
+  {% assign n = c.content | split: 'Lec-' | size | minus: 1 %}
+  <div class="crs-card{% if c.self_initiated %} selfinit{% endif %}">
+    <a class="crs-name" href="{{ base_path }}{{ c.url }}">{{ c.title | remove: '📔 ' }}</a>
+    <div class="crs-badges">
+      <span class="crs-badge inst">{{ c.venue }}</span>
+      <span class="crs-badge">{{ c.date | date: '%Y' }}</span>
+      <span class="crs-badge">{{ n }} lectures</span>
+      {% if c.self_initiated %}<span class="crs-badge self">Self-initiated</span>{% endif %}
+      {% if c.content contains 'coming soon' %}<span class="crs-badge wip">In progress</span>{% endif %}
+    </div>
+    {% if c.summary %}<div class="crs-summary">{{ c.summary }}</div>{% endif %}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
 {% endfor %}

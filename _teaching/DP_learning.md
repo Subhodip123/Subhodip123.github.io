@@ -4,6 +4,9 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-DP_learning
 venue: "IISc"
+category: 'Machine Learning Theory'
+self_initiated: true
+summary: 'Laplace, exponential and Gaussian mechanisms, composition theorems, PAC learning and VC dimension, DP-ERM, DP-SGD, and reconstruction attacks.'
 date: 2023-05-01
 location: "Bengaluru, India"
 ---
