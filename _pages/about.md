@@ -21,7 +21,7 @@ Recently, I have completed my Ph.D from the [ECE department, Indian Institute of
 </div>
 
 <details>
-<summary style="cursor: pointer; color: SteelBlue; font-size: 1.1em; font-weight: bold; margin-bottom: 0.5em;">📚 Brief Research Summary <span style="font-size: 0.8em; font-weight: normal; color: #888;">(click to expand)</span></summary>
+<summary style="cursor: pointer; color: SteelBlue; font-size: 1em; font-weight: bold; margin-bottom: 0.5em;">📚 Brief Research Summary <span style="font-size: 0.8em; font-weight: normal; color: #888;">(click to expand)</span></summary>
 
 <div class="abstract-text" style="font-size: 1em; color: Black; text-align: justify; margin-top: 0.5em;" markdown="1">
 
