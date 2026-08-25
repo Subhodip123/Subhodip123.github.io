@@ -8,7 +8,7 @@ venue: 'Transaction on Machine Learning Research (TMLR), 2026'
 authors: 'Subhodip Panda, Varun M S, Shreyans Jain, Sarthak Kumar Maharana, Prathosh A. P'
 venue_short: 'TMLR 2026'
 year: 2026
-type: 'preprint'
+type: 'journal'
 image: 'VDU.drawio.png'
 paperurl: 'https://arxiv.org/abs/2510.04058'
 citation: ''
