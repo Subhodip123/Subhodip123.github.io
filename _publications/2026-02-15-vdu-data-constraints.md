@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-10-05-vdu-data-constraints
 excerpt: '🎯 The principal objective of this work is to propose a machine unlearning methodology that can prevent the generation of outputs containing undesired features from a pre-trained diffusion model in a data-constrained setting, where the whole training dataset is inaccessible.'
 date: 2026-02-15
-venue: 'Transaction of Machine Learning Research'
+venue: 'Transaction on Machine Learning Research.'
 authors: 'Subhodip Panda, Varun M S, Shreyans Jain, Sarthak Kumar Maharana, Prathosh A. P'
 venue_short: 'TMLR 2026'
 year: 2026

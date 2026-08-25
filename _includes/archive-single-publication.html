@@ -7,6 +7,8 @@
 {% elsif post.paperurl contains "openreview" %}{% assign link_label = "OpenReview" %}
 {% elsif post.paperurl contains "aaai" %}{% assign link_label = "AAAI" %}
 {% elsif post.paperurl contains "ieee" %}{% assign link_label = "IEEE" %}
+{% elsif post.paperurl contains "icml.cc" %}{% assign link_label = "ICML" %}
+{% elsif post.paperurl contains "neurips.cc" %}{% assign link_label = "NeurIPS" %}
 {% else %}{% assign link_label = "Paper" %}{% endif %}
 
 {% case post.type %}
