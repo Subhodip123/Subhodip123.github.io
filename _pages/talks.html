@@ -9,67 +9,100 @@ author_profile: true
 
 <style>
 .svc-intro { font-size: 0.95em; color: #444; line-height: 1.6; margin-bottom: 1.1em; }
-.svc-stats { margin-bottom: 1.8em; font-size: 0.9em; color: #555; }
+.svc-stats { margin-bottom: 1.6em; font-size: 0.9em; color: #555; }
 .svc-stats .s { display: inline-block; padding: 0.15em 0.7em; margin: 0 0.3em 0.35em 0;
   border: 1px solid #dcdcdc; border-radius: 12px; background-color: #fafafa; }
+.svc-head { color: DarkRed !important; margin: 1.6em 0 0.2em 0 !important; font-size: 1.35em !important; }
+.svc-rule { height: 1px; border: none; background-color: #333; margin: 0 0 1.1em 0; }
 
-.tl-group { display: grid; grid-template-columns: 4.4em 1fr; }
-.tl-year { color: DarkRed; font-weight: bold; font-size: 1.2em; padding-top: 0.05em; }
-.tl-items { border-left: 2px solid #e2e2e2; padding-left: 1.5em; padding-bottom: 1.1em; }
-.tl-group:last-child .tl-items { border-left-color: transparent; }
+/* Reviewing */
+.svc-venues { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 0.7em; }
+.svc-venue { border: 1px solid #52adc8; border-radius: 6px; background-color: #eef7fa;
+  padding: 0.7em 0.5em; text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease; }
+.svc-venue:hover { transform: translateY(-3px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+.svc-venue b { display: block; color: #2c6376; font-size: 1.05em; }
+.svc-venue span { font-size: 0.8em; color: #5b8b9c; }
 
-.tl-item { position: relative; margin-bottom: 1.05em; }
-.tl-item:last-child { margin-bottom: 0.2em; }
-.tl-item::before { content: ""; position: absolute; left: calc(-1.5em - 7px); top: 0.35em;
-  width: 12px; height: 12px; border-radius: 50%; background-color: #b9b9b9;
-  border: 2px solid #fff; box-shadow: 0 0 0 1px #dcdcdc; }
-.tl-item.review::before    { background-color: #52adc8; }
-.tl-item.journal::before   { background-color: #62c462; }
-.tl-item.workshop::before  { background-color: #f89406; }
-.tl-item.talk::before      { background-color: #4682b4; }
-.tl-item.teaching::before  { background-color: #7d5fb2; }
-.tl-item.mentoring::before { background-color: #ee5f5b; }
+/* Shared card */
+.svc-card { border: 1px solid #e2e2e2; border-left: 4px solid #52adc8; border-radius: 6px;
+  padding: 0.8em 1em; margin-bottom: 0.75em; background-color: #fcfcfc;
+  transition: transform 0.2s ease, box-shadow 0.2s ease; }
+.svc-card:hover { transform: translateY(-2px); box-shadow: 0 3px 12px rgba(0,0,0,0.09); }
+.svc-card.ta { border-left-color: #7d5fb2; }
+.svc-card.men { border-left-color: #ee5f5b; }
 
-.tl-title { font-weight: bold; font-size: 0.99em; line-height: 1.4; }
-.tl-icon { margin-right: 0.35em; }
-.tl-detail { font-size: 0.86em; color: #6c6c6c; line-height: 1.5; margin-top: 0.15em; }
-.tl-link { font-size: 0.8em; margin-left: 0.4em; white-space: nowrap; }
-@media (max-width: 520px) {
-  .tl-group { grid-template-columns: 3.2em 1fr; }
-  .tl-items { padding-left: 1.1em; }
-  .tl-item::before { left: calc(-1.1em - 7px); }
-}
+.svc-chip { display: inline-block; padding: 0.12em 0.6em; margin-right: 0.4em;
+  border-radius: 3px; background-color: #eef7fa; color: #39798c;
+  font-size: 0.78em; font-weight: bold; }
+.svc-chip.kind { background-color: #f3f3f3; color: #666; font-weight: normal; }
+.svc-chip.ta { background-color: #f0ecf8; color: #5b4489; }
+.svc-chip.men { background-color: #fdefef; color: #a74240; }
+.svc-title { font-weight: bold; font-size: 0.99em; line-height: 1.4; display: block; margin-top: 0.4em; }
+.svc-sub { font-size: 0.85em; color: #777; font-style: italic; margin-top: 0.2em; }
+.svc-desc { font-size: 0.86em; color: #555; line-height: 1.5; margin-top: 0.3em; }
+.svc-note { font-size: 0.83em; color: #ae6804; margin-top: 0.25em; font-weight: bold; }
+.svc-link { font-size: 0.82em; margin-top: 0.35em; }
+
+/* Mentoring */
+.svc-men-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 0.75em; }
+.svc-men-name { font-weight: bold; font-size: 1em; }
+.svc-men-then { font-size: 0.85em; color: #666; margin-top: 0.25em; }
+.svc-men-now { font-size: 0.85em; color: #458945; margin-top: 0.2em; font-weight: bold; }
 </style>
 
 <p class="svc-intro">
-Service to the research community &mdash; peer review for machine learning venues, talks given during my
-doctoral studies, and teaching support for graduate courses at IISc.
+Service to the research community &mdash; peer review for machine learning venues, talks and presentations,
+teaching support for graduate courses at IISc, and students I have had the pleasure of mentoring.
 </p>
 
-{% assign tl = site.data.services.timeline %}
-{% assign years = tl | map: 'year' | uniq | sort | reverse %}
-{% assign n_review = tl | where: 'kind', 'review' | size %}
-{% assign n_talk = tl | where: 'kind', 'talk' | size %}
-{% assign n_teach = tl | where: 'kind', 'teaching' | size %}
-
+{% assign svc = site.data.services %}
 <div class="svc-stats">
-  <span class="s">🧐 {{ n_review }} review cycles</span>
-  <span class="s">🗣️ {{ n_talk }} talks</span>
-  <span class="s">👨‍🏫 {{ n_teach }} courses assisted</span>
+  <span class="s">🧐 {{ svc.reviewing | size }} venues reviewed</span>
+  <span class="s">🗣️ {{ svc.talks | size }} talks</span>
+  <span class="s">👨‍🏫 {{ svc.teaching_assistant | size }} courses assisted</span>
+  <span class="s">🤝 {{ svc.mentoring | size }} students mentored</span>
 </div>
 
-{% for y in years %}
-<div class="tl-group">
-  <div class="tl-year">{{ y }}</div>
-  <div class="tl-items">
-    {% for e in tl %}{% if e.year == y %}
-    <div class="tl-item {{ e.kind }}">
-      <span class="tl-title">
-        <span class="tl-icon">{% case e.kind %}{% when 'review' %}🧐{% when 'journal' %}📖{% when 'workshop' %}🛠️{% when 'talk' %}🗣️{% when 'teaching' %}👨‍🏫{% when 'mentoring' %}🤝{% else %}📌{% endcase %}</span>{{ e.title }}{% if e.url %}<a class="tl-link" href="{% unless e.url contains '://' %}{{ base_path }}{% endunless %}{{ e.url }}"{% if e.url contains '://' %} target="_blank"{% endif %}>[{{ e.link_text | default: 'link' }} ↗]</a>{% endif %}
-      </span>
-      {% if e.detail %}<div class="tl-detail">{{ e.detail }}</div>{% endif %}
-    </div>
-    {% endif %}{% endfor %}
-  </div>
+<h2 class="svc-head">🧐 Reviewing Works</h2>
+<hr class="svc-rule" />
+<div class="svc-venues">
+  {% for r in svc.reviewing %}
+  <div class="svc-venue"><b>{{ r.venue }}</b><span>{{ r.year }}</span></div>
+  {% endfor %}
+</div>
+
+<h2 class="svc-head">🗣️ Talks &amp; Presentations</h2>
+<hr class="svc-rule" />
+{% for t in svc.talks %}
+<div class="svc-card">
+  <span class="svc-chip">{{ t.date }}</span><span class="svc-chip kind">{{ t.kind }}</span>
+  <span class="svc-title">{{ t.title }}</span>
+  <div class="svc-sub">{{ t.venue }}</div>
+  {% if t.note %}<div class="svc-note">{{ t.note }}</div>{% endif %}
+  {% if t.url %}<div class="svc-link"><a href="{{ base_path }}{{ t.url }}">slides ↗</a></div>{% endif %}
 </div>
 {% endfor %}
+
+<h2 class="svc-head">👨‍🏫 Teaching Assistantships</h2>
+<hr class="svc-rule" />
+{% for c in svc.teaching_assistant %}
+<div class="svc-card ta">
+  <span class="svc-chip ta">{{ c.code }}</span><span class="svc-chip kind">{{ c.term }}</span>
+  <a class="svc-title" href="{{ c.url }}" target="_blank">{{ c.name }}</a>
+  <div class="svc-desc">{{ c.desc }}</div>
+</div>
+{% endfor %}
+
+<h2 class="svc-head">🤝 Students Mentored</h2>
+<hr class="svc-rule" />
+<div class="svc-men-grid">
+  {% for m in svc.mentoring %}
+  <div class="svc-card men">
+    <span class="svc-chip men">{{ m.period }}</span>
+    <div class="svc-men-name">{{ m.name }}</div>
+    <div class="svc-men-then">{{ m.then }}</div>
+    <div class="svc-men-now">→ {{ m.now }}</div>
+  </div>
+  {% endfor %}
+</div>

@@ -1,66 +1,71 @@
-# Timeline for the "Professional Services" page (_pages/talks.html).
-# Newest year first; entries render in the order listed within each year.
-#
-# kind: review | journal | workshop | talk | teaching | mentoring
-#   -> chooses the icon and dot colour. `url` and `link_text` are optional.
+# Content for the "Professional Services" page (_pages/talks.html).
+# Sourced from CV_subhodip_updated.pdf and _talks/*.md.
 
-timeline:
+# --- Peer review ------------------------------------------------------------
+reviewing:
+  - venue: "NeurIPS"
+    year: 2023
+  - venue: "ICLR"
+    year: 2024
+  - venue: "ICML"
+    year: 2024
+  - venue: "AAAI"
+    year: 2025
 
-  # ---- 2024 ---------------------------------------------------------------
-  - year: 2024
-    kind: review
-    title: "Conference Reviewer"
-    detail: "ICLR &middot; ICML &middot; AAAI"
+# --- Talks & presentations: newest first ------------------------------------
+talks:
+  - date: "Apr 2026"
+    title: "f-INE: A Hypothesis Testing Framework for Estimating Influence under Training Randomness"
+    kind: "Conference presentation"
+    venue: "ICLR 2026, Rio de Janeiro, Brazil"
 
-  - year: 2024
-    kind: talk
+  - date: "Feb 2026"
+    title: "Partially Blinded Unlearning"
+    kind: "Invited talk"
+    venue: "ACM ARCS 2026, IIT Hyderabad, India"
+    note: "🏅 Best poster presentation award"
+
+  - date: "Mar 2025"
+    title: "Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective"
+    kind: "Conference presentation"
+    venue: "AAAI 2025, Philadelphia, USA"
+
+  - date: "Aug 2024"
     title: "Annual Review Presentation on Partially Blinded Unlearning"
-    detail: "Indian Institute of Science (IISc), Bangalore &middot; 02 Aug 2024"
+    kind: "Departmental talk"
+    venue: "Indian Institute of Science (IISc), Bangalore"
     url: "/files/annual_review_24-1.pdf"
-    link_text: "slides"
 
-  - year: 2024
-    kind: talk
+  - date: "Jan 2024"
     title: "Comprehensive Exam Presentation"
-    detail: "Indian Institute of Science (IISc), Bangalore &middot; 22 Jan 2024"
+    kind: "Departmental talk"
+    venue: "Indian Institute of Science (IISc), Bangalore"
     url: "/files/Compre_Presentation.pdf"
-    link_text: "slides"
 
-  - year: 2024
-    kind: teaching
-    title: "Teaching Assistant &mdash; Pattern Recognition and Neural Networks (E2-233)"
-    detail: "IISc Bangalore &middot; an introductory course on machine learning and deep learning."
+# --- Teaching assistantships ------------------------------------------------
+teaching_assistant:
+  - code: "E2-233"
+    name: "Pattern Recognition and Neural Networks"
+    desc: "An introductory course on machine learning and deep learning."
     url: "https://sites.google.com/view/prathosh/prnn_2024"
-    link_text: "course page"
-
-  # ---- 2023 ---------------------------------------------------------------
-  - year: 2023
-    kind: review
-    title: "Conference Reviewer"
-    detail: "NeurIPS"
-
-  - year: 2023
-    kind: teaching
-    title: "Teaching Assistant &mdash; Advanced Deep Representation Learning (E2-333)"
-    detail: "IISc Bangalore &middot; generative modeling, continual learning, and meta learning."
+    term: "2024"
+  - code: "E2-333"
+    name: "Advanced Deep Representation Learning"
+    desc: "An advanced course covering recent research in generative modeling, continual learning, and meta learning."
     url: "https://sites.google.com/view/prathosh/adrl-2023-aug"
-    link_text: "course page"
+    term: "Aug 2023"
 
-  # ---- TEMPLATES: uncomment and fill in ------------------------------------
-  # Journal reviewing (kind: journal, 📖 green dot)
-  # - year: 2025
-  #   kind: journal
-  #   title: "Journal Reviewer"
-  #   detail: "TMLR &middot; IEEE Transactions on Artificial Intelligence"
-  #
-  # Workshop / other reviewing (kind: workshop, 🛠️ orange dot)
-  # - year: 2025
-  #   kind: workshop
-  #   title: "Workshop Reviewer / Programme Committee"
-  #   detail: "<workshop name>, <conference> 2025"
-  #
-  # Mentoring (kind: mentoring, 🤝 red dot)
-  # - year: 2025
-  #   kind: mentoring
-  #   title: "Mentored <name>"
-  #   detail: "<programme or project> &middot; <where they are now>"
+# --- Students mentored ------------------------------------------------------
+mentoring:
+  - name: "Shashwat Sourav"
+    period: "2024 – Present"
+    then: "BS, IISER Bhopal"
+    now: "Ph.D., University of Washington"
+  - name: "MS Varun"
+    period: "2024 – 2025"
+    then: "B.Tech, PES University"
+    now: "ML Engineer, VISA"
+  - name: "Atri Guha"
+    period: "2023 – 2024"
+    then: "B.Tech, IIT Patna"
+    now: "ML Research Engineer, Tiger Analytics"
