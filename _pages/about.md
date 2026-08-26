@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify; hyphens: auto; -webkit-hyphens: auto;" markdown="1">
+
 I am a Senior Research Scientist at [Fujitsu Research India](https://global.fujitsu/en-apac/local/technology/research), where I am a member of the Security Sciences Lab (SSL). Previously, I worked as Ph.D sciences intern at [Microsoft India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) broadly working in the area of <span style="color: DarkBlue;">LLM personalization</span>. I also served as Ph.D research intern at [Adobe Research, Bangalore](https://research.adobe.com/careers/bangalore/), where I worked on <span style="color: DarkBlue;">data attribution for vision language models</span>. Prior to this, I spent a brief period as a Research Associate at [Oneirix Labs](https://www.oneirix.com/), where I contributed towards development of algorithms grounded on *computational statistics*, with a particular emphasis on their applications in Medical AI. During my undergraduate studies, I also worked as a research intern at *Laboratory for Electro-Optics Systems (LEOS)* of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/LEOS.html).
 
 Recently, I have completed my Ph.D from the [ECE department, Indian Institute of Science (IISc), Bangalore](https://ece.iisc.ac.in/), where I was a member of the *Representation Learning Lab*, advised by [Prof. Prathosh A.P](https://sites.google.com/view/prathosh/home). During my doctoral studies, I have had the privilege of collaborating with several distinguished researchers — [Dr. Ananda Theertha Suresh](http://theertha.info/), [Prof. Sai Praneeth](https://spkreddy.org/), [Prof. Shubhada Agrawal](https://sites.google.com/view/shubhada-agrawal/home), and [Prof. Debabrota Basu](https://debabrota-basu.github.io/). Prior to this, I completed my post-graduate studies in Statistics from [Indian Statistical Institute (ISI), Chennai](https://www.isichennai.res.in/) under the supervision of [Prof. Sudheesh Kumar K.](https://www.isichennai.res.in/~skkattu), and my undergraduate studies in ECE from [Indian Institute of Engineering Science and Technology (IIEST),Shibpur](https://www.iiests.ac.in/).
+
+</div>
 
 ## 🔍 Research Interests
 
