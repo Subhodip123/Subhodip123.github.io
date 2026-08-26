@@ -32,6 +32,13 @@ author_profile: true
   .pub-item { grid-template-columns: 1fr; gap: 0.6em; }
   .pub-thumb { max-width: 240px; }
 }
+.pub-preprints { margin: 0.2em 0 0.6em 0; padding-left: 1.3em; }
+.pub-preprints li { margin-bottom: 0.55em; line-height: 1.5; }
+.pub-prep-title { font-weight: bold; font-size: 0.98em; }
+.pub-prep-pill { display: inline-block; padding: 0.1em 0.55em; margin-left: 0.45em;
+  border: 1px solid #aaaaaa; border-radius: 3px; background-color: #f2f2f2;
+  color: #555555; font-size: 0.74em; font-weight: bold; vertical-align: middle;
+  white-space: nowrap; }
 </style>
 
 {% assign pubs = site.publications | sort: 'date' | reverse %}
@@ -48,9 +55,16 @@ author_profile: true
 </div>
 
 {% if author.googlescholar %}
-<p style="font-size: 0.9em;">You can also find my articles on <a href="{{ author.googlescholar }}"><u>my Google Scholar profile</u></a>. Jump to:
+<p style="font-size: 0.9em;">You can also find my articles on <a href="{{ author.googlescholar }}"><u>my Google Scholar profile</u></a>. Jump to: <a href="#preprints">Preprints</a> · 
 {% for y in years %}<a href="#y{{ y }}">{{ y }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
 {% endif %}
+
+<h2 class="pub-year" id="preprints">Working Preprints</h2>
+<hr class="pub-rule" />
+<ol class="pub-preprints">
+  <li><span class="pub-prep-title">MIU: a Mutual Information Framework for Unlearning</span><span class="pub-prep-pill">In preparation</span></li>
+  <li><span class="pub-prep-title">Theoretical Foundations of Machine Unlearning</span><span class="pub-prep-pill">In preparation</span></li>
+</ol>
 
 {% for y in years %}
 <h2 class="pub-year" id="y{{ y }}">{{ y }}</h2>
