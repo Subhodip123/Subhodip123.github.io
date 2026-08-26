@@ -9,7 +9,7 @@ authors: 'Subhodip Panda, Varun M S, Shreyans Jain, Sarthak Kumar Maharana, Prat
 venue_short: 'TMLR 2026'
 year: 2026
 type: 'journal'
-image: 'VDU.drawio.png'
+image: 'VDU_TMLR.png'
 paperurl: 'https://arxiv.org/abs/2510.04058'
 citation: ''
 ---
