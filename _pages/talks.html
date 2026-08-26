@@ -68,7 +68,7 @@ teaching support for graduate courses at IISc, and students I have had the pleas
 <hr class="svc-rule" />
 <div class="svc-venues">
   {% for r in svc.reviewing %}
-  <div class="svc-venue"><b>{{ r.venue }}</b><span>{{ r.year }}</span></div>
+  <div class="svc-venue"><b>{{ r.venue }}</b><span>{{ r.years | join: " &middot; " }}</span></div>
   {% endfor %}
 </div>
 
@@ -80,7 +80,7 @@ teaching support for graduate courses at IISc, and students I have had the pleas
   <span class="svc-title">{{ t.title }}</span>
   <div class="svc-sub">{{ t.venue }}</div>
   {% if t.note %}<div class="svc-note">{{ t.note }}</div>{% endif %}
-  {% if t.url %}<div class="svc-link"><a href="{{ base_path }}{{ t.url }}">slides ↗</a></div>{% endif %}
+  {% if t.url %}<div class="svc-link"><a href="{% unless t.url contains '://' %}{{ base_path }}{% endunless %}{{ t.url }}"{% if t.url contains '://' %} target="_blank"{% endif %}>{{ t.link_text | default: 'slides' }} ↗</a></div>{% endif %}
 </div>
 {% endfor %}
 

@@ -4,16 +4,23 @@
 # --- Peer review ------------------------------------------------------------
 reviewing:
   - venue: "NeurIPS"
-    year: 2023
+    years: [2024, 2026]
   - venue: "ICLR"
-    year: 2024
+    years: [2025]
   - venue: "ICML"
-    year: 2024
+    years: [2025]
   - venue: "AAAI"
-    year: 2025
+    years: [2026]
 
 # --- Talks & presentations: newest first ------------------------------------
 talks:
+  - date: "Jul 2026"
+    title: "Regret Tail Characterization of Optimal Bandit Algorithms with Generic Rewards"
+    kind: "Oral presentation"
+    venue: "IEEE ISIT 2026, Guangzhou, China"
+    url: "https://www.youtube.com/watch?v=dot_8T9if3o&amp;t=171s"
+    link_text: "video"
+
   - date: "Apr 2026"
     title: "f-INE: A Hypothesis Testing Framework for Estimating Influence under Training Randomness"
     kind: "Conference presentation"
@@ -47,12 +54,12 @@ teaching_assistant:
   - code: "E2-233"
     name: "Pattern Recognition and Neural Networks"
     desc: "An introductory course on machine learning and deep learning."
-    url: "https://sites.google.com/view/prathosh/prnn_2024"
+    url: "https://prathosh.in/teaching.html"
     term: "2024"
   - code: "E2-333"
     name: "Advanced Deep Representation Learning"
     desc: "An advanced course covering recent research in generative modeling, continual learning, and meta learning."
-    url: "https://sites.google.com/view/prathosh/adrl-2023-aug"
+    url: "https://prathosh.in/teaching.html"
     term: "Aug 2023"
 
 # --- Students mentored ------------------------------------------------------
