@@ -62,7 +62,7 @@ author_profile: true
 <h2 class="pub-year" id="preprints">Working Preprints</h2>
 <hr class="pub-rule" />
 <ol class="pub-preprints">
-  <li><span class="pub-prep-title">MIU: a Mutual Information Framework for Unlearning</span><span class="pub-prep-pill">In preparation</span></li>
+  <li><span class="pub-prep-title">MIU: A Mutual Information Framework for Unlearning</span><span class="pub-prep-pill">In preparation</span></li>
   <li><span class="pub-prep-title">Theoretical Foundations of Machine Unlearning</span><span class="pub-prep-pill">In preparation</span></li>
 </ol>
 
