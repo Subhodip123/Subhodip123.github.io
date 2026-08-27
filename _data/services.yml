@@ -25,6 +25,8 @@ talks:
     title: "f-INE: A Hypothesis Testing Framework for Estimating Influence under Training Randomness"
     kind: "Conference presentation"
     venue: "ICLR 2026, Rio de Janeiro, Brazil"
+    url: "/files/f-INE.pdf"
+    link_text: "slides"
 
   - date: "Feb 2026"
     title: "Partially Blinded Unlearning"
@@ -32,22 +34,33 @@ talks:
     venue: "ACM ARCS 2026, IIT Hyderabad, India"
     note: "🏅 Best poster presentation award"
 
+  - date: "Jul 2025"
+    title: "Concept Forgetting via Label Annealing"
+    kind: "Conference presentation"
+    venue: "UAI 2025, Rio de Janeiro, Brazil"
+    url: "/files/LAN.pdf"
+    link_text: "slides"
+
   - date: "Mar 2025"
     title: "Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective"
     kind: "Conference presentation"
     venue: "AAAI 2025, Philadelphia, USA"
+    url: "/files/PBU.pdf"
+    link_text: "slides"
 
   - date: "Aug 2024"
     title: "Annual Review Presentation on Partially Blinded Unlearning"
     kind: "Departmental talk"
     venue: "Indian Institute of Science (IISc), Bangalore"
-    url: "/files/annual_review_24-1.pdf"
+    url: "/files/PBU.pdf"
+    link_text: "slides"
 
   - date: "Jan 2024"
     title: "Comprehensive Exam Presentation"
     kind: "Departmental talk"
     venue: "Indian Institute of Science (IISc), Bangalore"
     url: "/files/Compre_Presentation.pdf"
+    link_text: "slides"
 
 # --- Teaching assistantships ------------------------------------------------
 teaching_assistant:

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi! I am Subhodip Panda"
+title: "👋 Hi! I am Subhodip Panda."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
