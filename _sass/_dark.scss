@@ -1,0 +1,139 @@
+/* ==========================================================================
+   DARK THEME + TOGGLE BUTTON
+   Activated by data-theme="dark" on <html> (set in _includes/head/custom.html).
+   ========================================================================== */
+
+/* --- the floating toggle button (visible in both themes) ----------------- */
+.theme-toggle {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  z-index: 999;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border: 1px solid #cfcfcf;
+  border-radius: 50%;
+  background-color: #fff;
+  color: #444;
+  font-size: 1.05em;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover { transform: translateY(-2px); box-shadow: 0 5px 16px rgba(0, 0, 0, 0.25); }
+  &:focus-visible { outline: 2px solid #52adc8; outline-offset: 2px; }
+}
+
+/* --- dark palette -------------------------------------------------------- */
+html[data-theme="dark"] {
+  $d-bg:      #1a1d21;
+  $d-surface: #23272c;
+  $d-border:  #383e45;
+  $d-text:    #d7dbdf;
+  $d-muted:   #9aa4ae;
+  $d-head:    #eceff2;
+  $d-link:    #7ec8e3;
+  $d-accent:  #ff9a8f;
+
+  background-color: $d-bg;
+
+  body, .page, .page__content, .archive, .initial-content, .layout--single {
+    background-color: $d-bg;
+    color: $d-text;
+  }
+
+  h1, h2, h3, h4, h5, h6, .page__title, .archive__subtitle, .author__name {
+    color: $d-head;
+  }
+
+  a { color: $d-link; &:visited { color: #b39ddb; } &:hover { color: #a9dcef; } }
+
+  p, li, td, th, dd, dt, .page__meta, .archive__item-excerpt { color: $d-text; }
+
+  hr { background-color: $d-border; border-color: $d-border; }
+
+  /* masthead / navigation */
+  .masthead { background-color: $d-surface; border-bottom-color: $d-border; }
+  .greedy-nav { background-color: $d-surface;
+    a { color: $d-text; &:hover { color: $d-link; } }
+    .visible-links a:before { background-color: $d-link; }
+    button { background-color: $d-surface; }
+    .hidden-links { background-color: $d-surface; border-color: $d-border;
+      a { color: $d-text; }
+      &:before { border-bottom-color: $d-border; } }
+  }
+  .masthead__menu-item--lg a { color: $d-head; }
+
+  /* sidebar / author profile */
+  .sidebar, .author__content, .author__urls-wrapper { color: $d-text; }
+  .author__bio, .author__urls li { color: $d-muted; }
+  .author__urls { background-color: $d-surface; border-color: $d-border;
+    a { color: $d-link; } }
+  .author__avatar img { background-color: $d-surface; border-color: $d-border; }
+  .btn--inverse { background-color: $d-surface; border-color: $d-border; color: $d-text; }
+
+  /* footer */
+  .page__footer { background-color: $d-surface; color: $d-muted;
+    a { color: $d-link; } }
+
+  /* code, tables, quotes */
+  code, pre, .highlight { background-color: #15181c; color: #e0e0e0; }
+  table { color: $d-text; }
+  th { background-color: $d-surface; }
+  td, th { border-color: $d-border; }
+  tbody tr:nth-child(even) { background-color: rgba(255, 255, 255, 0.03); }
+  blockquote { border-left-color: $d-border; color: $d-muted; }
+
+  /* notices keep their hue but darken the fill */
+  .notice, .notice--primary, .notice--info, .notice--warning,
+  .notice--success, .notice--danger {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    color: $d-text !important;
+    box-shadow: none;
+    a { color: $d-link; }
+  }
+
+  /* --- custom components (publications / courses / services / blog) ------ */
+  .pub-year, .svc-head, .crs-head, .blg-year { color: $d-accent !important; }
+  .pub-rule, .svc-rule, .crs-rule, .blg-rule { background-color: $d-border; }
+
+  .pub-stats .s, .svc-stats .s, .crs-stats .s, .blg-stats .s {
+    background-color: $d-surface; border-color: $d-border; color: $d-muted;
+  }
+
+  .pub-thumb img { border-color: $d-border; background-color: #fff; }
+  .pub-authors { color: $d-text; }
+  .pub-venue, .pub-excerpt { color: $d-muted; }
+
+  .svc-card, .crs-card, .blg-card {
+    background-color: $d-surface; border-color: $d-border;
+  }
+  .svc-card:hover, .crs-card:hover, .blg-card:hover {
+    box-shadow: 0 3px 14px rgba(0, 0, 0, 0.5);
+  }
+  .svc-venue { background-color: rgba(82, 173, 200, 0.14); border-color: #3d7d92;
+    b { color: #9fd8ea; } span { color: #7fb4c6; } }
+  .svc-sub, .svc-desc, .svc-men-then, .crs-summary, .blg-excerpt, .blg-more { color: $d-muted; }
+  .svc-men-name { color: $d-head; }
+  .crs-badge { background-color: rgba(255,255,255,0.06); border-color: $d-border; color: $d-muted; }
+  .blg-tag { background-color: rgba(255,255,255,0.06); border-color: $d-border; color: $d-muted; }
+
+  /* --- about page (classes added alongside the inline styles) ------------ */
+  .about-news, .about-feat {
+    background-color: $d-surface !important; border-color: $d-border !important;
+  }
+  .about-feat p { color: $d-muted !important; }
+  .about-summary { color: $d-text !important; }
+  .about-tile { filter: brightness(0.42) saturate(1.5); }
+  .about-tile b, .about-tile span { color: inherit; }
+  .about-accent { color: #7fd6a2 !important; }
+
+  /* images that would glare on a dark page */
+  .pub-thumb img, .about-feat img { filter: brightness(0.92); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle { transition: none; &:hover { transform: none; } }
+}

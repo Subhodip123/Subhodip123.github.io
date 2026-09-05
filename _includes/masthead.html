@@ -21,3 +21,27 @@
     </div>
   </div>
 </div>
+
+<button id="theme-toggle" class="theme-toggle" type="button"
+        aria-label="Toggle dark mode" title="Toggle dark mode">🌙</button>
+
+<script>
+  (function () {
+    var btn = document.getElementById('theme-toggle');
+    if (!btn) { return; }
+    var root = document.documentElement;
+    var sync = function () {
+      var dark = root.getAttribute('data-theme') === 'dark';
+      btn.textContent = dark ? '☀️' : '🌙';
+      btn.setAttribute('aria-pressed', dark ? 'true' : 'false');
+    };
+    sync();
+    btn.addEventListener('click', function () {
+      var dark = root.getAttribute('data-theme') === 'dark';
+      if (dark) { root.removeAttribute('data-theme'); }
+      else { root.setAttribute('data-theme', 'dark'); }
+      try { localStorage.setItem('theme', dark ? 'light' : 'dark'); } catch (e) {}
+      sync();
+    });
+  })();
+</script>
