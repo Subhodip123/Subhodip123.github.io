@@ -10,7 +10,7 @@
 
 coauthors:
   - name: "Prathosh A. P."
-    url: "https://sites.google.com/view/prathosh/home"
+    url: "https://prathosh.in/"
     affiliation: "ECE, Indian Institute of Science, Bangalore"
     role: "Ph.D. advisor"
     match: "Prathosh"
@@ -31,7 +31,7 @@ coauthors:
     match: "Shubhada Agrawal"
   - name: "Debabrota Basu"
     url: "https://debabrota-basu.github.io/"
-    affiliation: "Inria Centre at University of Lille"
+    affiliation: "Inria Centre at University of Lille, France"
     role: ""
     match: "Debabrota Basu"
   - name: "Avijit Mandal"
@@ -72,18 +72,13 @@ coauthors:
     match: "Adwaita Goswami"
 
 advisors:
-  - name: "Prathosh A. P."
-    url: "https://sites.google.com/view/prathosh/home"
-    affiliation: "ECE, Indian Institute of Science, Bangalore"
-    role: "Ph.D. advisor"
-    match: "Prathosh"
   - name: "Sudheesh Kumar K."
     url: "https://www.isichennai.res.in/~skkattu"
     affiliation: "Indian Statistical Institute, Chennai"
-    role: "P.G. Diploma advisor"
+    role: "Master's advisor"
     match: ""
   - name: "Monojit Mitra"
-    url: ""
+    url: "https://scholar.google.com/citations?user=Yl2yszEAAAAJ&hl=en"
     affiliation: "IIEST, Shibpur"
     role: "B.Tech advisor"
     match: ""

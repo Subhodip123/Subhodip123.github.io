@@ -3,15 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Collaborators"
-    url: /collaborators/
-
   - title: "Academic Courses"
     url: /teaching/    
     
   - title: "Professional Services"
     url: /talks/   
 
+  - title: "Collaborators"
+    url: /collaborators/
+    
   - title: "Blog Posts"
     url: /posts/
   
