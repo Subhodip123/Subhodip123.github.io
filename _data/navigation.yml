@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Collaborators"
+    url: /collaborators/
+
   - title: "Academic Courses"
     url: /teaching/    
     

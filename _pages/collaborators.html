@@ -1,0 +1,73 @@
+---
+layout: archive
+title: "Collaborators"
+permalink: /collaborators/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+.col-intro { font-size: 0.95em; color: #444; line-height: 1.6; margin-bottom: 1.1em; }
+.col-stats { margin-bottom: 1.6em; font-size: 0.9em; color: #555; }
+.col-stats .s { display: inline-block; padding: 0.15em 0.7em; margin: 0 0.3em 0.35em 0;
+  border: 1px solid #dcdcdc; border-radius: 12px; background-color: #fafafa; }
+.col-head { color: DarkRed !important; margin: 1.6em 0 0.2em 0 !important; font-size: 1.35em !important; }
+.col-rule { height: 1px; border: none; background-color: #333; margin: 0 0 1.1em 0; }
+.col-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(255px, 1fr)); gap: 0.8em; }
+.col-card { border: 1px solid #e2e2e2; border-left: 4px solid #52adc8; border-radius: 6px;
+  padding: 0.8em 1em; background-color: #fcfcfc;
+  transition: transform 0.2s ease, box-shadow 0.2s ease; }
+.col-card:hover { transform: translateY(-2px); box-shadow: 0 3px 12px rgba(0,0,0,0.09); }
+.col-card.adv { border-left-color: #7d5fb2; }
+.col-card.sen { border-left-color: #62c462; }
+.col-name { font-weight: bold; font-size: 1em; line-height: 1.35; }
+.col-aff { font-size: 0.84em; color: #777; margin-top: 0.25em; line-height: 1.45; }
+.col-meta { margin-top: 0.4em; }
+.col-chip { display: inline-block; padding: 0.1em 0.55em; margin-right: 0.3em;
+  border: 1px solid #cfcfcf; border-radius: 12px; background-color: #f4f4f4;
+  color: #555; font-size: 0.74em; font-weight: bold; }
+.col-chip.papers { background-color: #eef7fa; border-color: #52adc8; color: #39798c; }
+</style>
+
+<p class="col-intro">
+I have been fortunate to work alongside the people below, whose insight and generosity have shaped
+my research. Joint-paper counts are drawn automatically from my <a href="{{ base_path }}/publications/">publications</a>.
+</p>
+
+{% assign co = site.data.collaborators %}
+{% assign all = co.coauthors | concat: co.advisors %}
+
+<div class="col-stats">
+  <span class="s">🤝 {{ all | size }} collaborators</span>
+  <span class="s">🎓 {{ co.advisors | size }} advisors</span>
+  <span class="s">📚 {{ site.publications | size }} joint publications</span>
+</div>
+
+{% assign groups = "coauthors|advisors" | split: "|" %}
+{% assign labels = "👥 Co-authors &amp; Collaborators|🎓 Advisors &amp; Mentors" | split: "|" %}
+{% assign klass = "co|adv" | split: "|" %}
+
+{% for g in groups %}
+{% assign people = co[g] %}
+{% if people and people.size > 0 %}
+<h2 class="col-head">{{ labels[forloop.index0] }}</h2>
+<hr class="col-rule" />
+<div class="col-grid">
+  {% for p in people %}
+  {% assign n = 0 %}
+  {% if p.match != "" %}
+    {% for pub in site.publications %}{% if pub.authors contains p.match %}{% assign n = n | plus: 1 %}{% endif %}{% endfor %}
+  {% endif %}
+  <div class="col-card {{ klass[forloop.parentloop.index0] }}">
+    <div class="col-name">{% if p.url != "" %}<a href="{{ p.url }}" target="_blank">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</div>
+    {% if p.affiliation != "" %}<div class="col-aff">{{ p.affiliation }}</div>{% endif %}
+    <div class="col-meta">
+      {% if n > 0 %}<span class="col-chip papers">{{ n }} joint paper{% if n > 1 %}s{% endif %}</span>{% endif %}
+      {% if p.role != "" %}<span class="col-chip">{{ p.role }}</span>{% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+{% endfor %}
