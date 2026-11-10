@@ -4,7 +4,7 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2023-advanced_representation_learning
 venue: "IISc"
-category: 'Machine Learning Theory'
+category: 'Foundations of Generative AI'
 self_initiated: false
 summary: "Recent research in deep representation learning, broadly covering generative modeling, continual learning, and meta learning."
 date: 2023-08-01
