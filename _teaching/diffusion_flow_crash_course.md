@@ -11,4 +11,7 @@ date: 2026-11-01
 location: "Bengaluru, India"
 ---
 
-**📌 Logistics:** A short, self-contained crash course on diffusion and flow-based generative models by [Dr. Dhiraj Nagraj](https://dheerajnagaraj.com/) as part of my attended workshop on [Data Science: Probabilistic and Optimization Methods II](https://www.icts.res.in/program/DSPOM).
+**📌 Logistics:** Notes from a short crash course on **Introduction to Diffusion & Flow Models**, taught by [Dheeraj Nagaraj](https://dheerajmn.github.io/). Notes for the remaining days are coming soon.
+
+- [Lec-1](/files/diffusion_crash/Lec-1): Introduction to ODE, Picard-Lindelof Theorem, Continuity Equation.
+- [Lec-2](/files/diffusion_crash/Lec-2): Stochastic Differential Equation and Fooker-Plank Equation.
