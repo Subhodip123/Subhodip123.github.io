@@ -1,5 +1,5 @@
 ---
-title: "📔 Statistical Optimal Transport"
+title: "📔 Statistical Optimal Transport: Crash Course"
 collection: courses
 type: "Graduate Course"
 permalink: /teaching/2026-stat_ot
@@ -15,8 +15,8 @@ location: "Bengaluru, India"
 
 - [Lec-1](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Introduction to Optimal Transport-1
 - [Lec-2](/files/Lec-2.pdf): Intro to Optimal Transport-2
-- [Lec-3](/files/Lec-3.pdf): Polar Factorization Theorem, Dual Formulation of OT
-- [Lec-4](/files/Lec-4.pdf): Statistical Optimal Transport
-- [Lec-5](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Introduction to Gradient Flows and Otto Calculus
+- [Lec-3](/files/Lec-3.pdf): Polar Factorization Theorem, Dual Formulation and Statistical Optimal Transport
+- [Lec-4](/files/Lec-4.pdf): Wasserstien Density Estimation.
+- [Lec-5](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Gradient Flows and Otto Calculus
 - [Lec-6](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Computational Optimal Transport
 - [Lec-7](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Optimal Transport and PDE.

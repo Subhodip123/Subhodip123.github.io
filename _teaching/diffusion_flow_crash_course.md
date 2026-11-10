@@ -13,5 +13,5 @@ location: "Bengaluru, India"
 
 **📌 Logistics:** Notes from a short crash course on **Introduction to Diffusion & Flow Models**, taught by [Dheeraj Nagaraj](https://dheerajmn.github.io/). Notes for the remaining days are coming soon.
 
-- [Lec-1](/files/diffusion_crash/Lec-1): Introduction to ODE, Picard-Lindelof Theorem, Continuity Equation.
-- [Lec-2](/files/diffusion_crash/Lec-2): Stochastic Differential Equation and Fooker-Plank Equation.
+- [Lec-1](/files/diffusion_crash/Lec-1.pdf): Introduction to ODE, Picard-Lindelof Theorem, Continuity Equation.
+- [Lec-2](/files/diffusion_crash/Lec-2.pdf): Stochastic Differential Equation and Fooker-Plank Equation.
