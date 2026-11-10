@@ -4,7 +4,7 @@ collection: courses
 type: "Graduate Course"
 permalink: /teaching/2025-generative_ai
 venue: "IISc"
-category: 'Machine Learning Theory'
+category: 'Foundations of Generative AI'
 self_initiated: false
 summary: "Sampling algorithms (rejection, Metropolis-Hastings, Gibbs, Langevin), SDEs and the Fokker-Planck equation, Poincare and log-Sobolev inequalities, VAEs and GANs, DDPM/DDIM, flow matching, and posterior sampling."
 date: 2025-08-01

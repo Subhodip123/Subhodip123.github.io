@@ -49,7 +49,7 @@ working through the same material.
   <span class="s">🔬 {{ n_self }} self-initiated</span>
 </div>
 
-{% assign categories = "Machine Learning Theory|Statistics &amp; Information Theory|Mathematical Foundations" | split: "|" %}
+{% assign categories = "Foundations of Generative AI|Machine Learning Theory|Statistics &amp; Information Theory|Mathematical Foundations" | split: "|" %}
 
 {% for cat in categories %}
 {% assign cat_plain = cat | replace: '&amp;', '&' %}
@@ -65,7 +65,7 @@ working through the same material.
     <div class="crs-badges">
       <span class="crs-badge inst">{{ c.venue }}</span>
       <span class="crs-badge">{{ c.date | date: '%Y' }}</span>
-      <span class="crs-badge">{{ n }} lectures</span>
+      {% if n > 0 %}<span class="crs-badge">{{ n }} lecture{% if n > 1 %}s{% endif %}</span>{% endif %}
       {% if c.self_initiated %}<span class="crs-badge self">Self-initiated</span>{% endif %}
       {% if c.content contains 'coming soon' %}<span class="crs-badge wip">In progress</span>{% endif %}
     </div>
