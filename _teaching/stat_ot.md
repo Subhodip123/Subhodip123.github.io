@@ -13,10 +13,10 @@ location: "Bengaluru, India"
 
 **📌 Logistics:** These notes have been compiled from multiple course lectures and collated together from the web.
 
-- [Lec-1](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Introduction to Optimal Transport-1
-- [Lec-2](/files/Lec-2.pdf): Intro to Optimal Transport-2
-- [Lec-3](/files/Lec-3.pdf): Polar Factorization Theorem, Dual Formulation and Statistical Optimal Transport
-- [Lec-4](/files/Lec-4.pdf): Wasserstien Density Estimation.
-- [Lec-5](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Gradient Flows and Otto Calculus
-- [Lec-6](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Computational Optimal Transport
-- [Lec-7](https://drive.google.com/drive/folders/1NKFRQ_Jenery8gnLyR0ESYq0ry8yMBz1): Optimal Transport and PDE.
+- [Lec-1](): Introduction to Optimal Transport-1
+- [Lec-2](/files/OT_crash/Lec-2.pdf): Intro to Optimal Transport-2
+- [Lec-3](/files/OT_crash/Lec-3.pdf): Polar Factorization Theorem, Dual Formulation and Statistical Optimal Transport
+- [Lec-4](/files/OT_crash/Lec-4.pdf): Wasserstien Density Estimation.
+- [Lec-5](): Gradient Flows and Otto Calculus
+- [Lec-6](): Computational Optimal Transport
+- [Lec-7](): Optimal Transport and PDE.

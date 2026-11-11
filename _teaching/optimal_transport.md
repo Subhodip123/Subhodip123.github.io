@@ -5,7 +5,7 @@ type: "Graduate Course"
 permalink: /teaching/2022-optimal_transport
 venue: "UCSB"
 category: 'Statistics & Information Theory'
-self_initiated: true
+self_initiated: false
 summary: "Monge and Kantorovich problems, narrow topology and compactness, convex analysis and duality, Brenier's characterization of optimal maps, the Wasserstein metric, Benamou-Brenier, and Wasserstein geodesics."
 date: 2022-01-04
 location: "Bengaluru, India"
